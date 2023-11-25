@@ -84,10 +84,10 @@ export class TabsPage {
       const tabBarExtension: HTMLElement = document.querySelector(
         '.extension'
       ) as HTMLElement;
-      if(tabBarExtension){
+      if(tabBar){
 
         tabBar.style.display = 'none';
-        tabBarExtension.style.display = 'none';
+       //tabBarExtension.style.display = 'none';
       }
     } else {
       const tabBar: HTMLElement = document.querySelector(
@@ -96,10 +96,10 @@ export class TabsPage {
       const tabBarExtension: HTMLElement = document.querySelector(
         '.extension'
       ) as HTMLElement;
-      if(tabBarExtension){
+      if(tabBar){
 
         tabBar.style.display = 'flex';
-        tabBarExtension.style.display = 'flex';
+        //tabBarExtension.style.display = 'flex';
       }
     }
   }

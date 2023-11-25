@@ -1,0 +1,111 @@
+$ion-padding: 16px;
+ion-content{
+
+  //gradient background
+  --background: linear-gradient(180deg, #FFFFFF 0%, #F2F2F2 100%);
+  .small-card{
+    background: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 16px;
+
+    height: 50px;
+    width: 100%;
+    .left{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      .icon{
+        margin: 5px;
+
+        height: 40px;
+        width: 40px;
+        border-radius: 5px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+
+        border: 1px solid #b1b1b1;
+        ion-icon{
+          // fill: var(--ion-color-danger);
+          font-size: 30px;
+        }
+        .normal-icon{
+          fill: var(--ion-color-violet);
+        }
+      }
+      .title{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+
+    }
+    .right{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      ion-icon{
+        color: grey;
+        font-size: 25px;
+      }
+    }
+  }
+  .searchbar {
+    display: flex;
+    flex-direction: row;
+    // margin-top: 20px;
+    margin-right: $ion-padding;
+    margin-left: $ion-padding;
+    flex: 1;
+    .input {
+      height: 44px;
+      background: white;
+      border-color: var(--ion-color-primary);
+      border-width: thin;
+      border-style: solid;
+      border-radius: 3px;
+      border-radius: 30px;
+      padding-inline-start: 16px;
+      padding-inline-end: 16px;
+      margin-bottom: 16px;
+      overflow: hidden;
+      font-size: 15px;
+      color: #989898;
+      margin-right: 5px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      flex:1;
+      ion-icon {
+        font-size: 20px;
+        color: #989898;
+        margin-right: $ion-padding;
+      }
+      width: 100%;
+
+    }
+    .advanced-search {
+      height: 44px;
+      width: 44px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      background: white;
+      border-color: var(--ion-color-primary);
+      border-width: thin;
+      border-style: solid;
+      border-radius: 100%;
+      ion-icon {
+        font-size: 25px;
+        color: var(--ion-color-primary);
+      }
+    }
+  }
+}

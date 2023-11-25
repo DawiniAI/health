@@ -1,6 +1,7 @@
 .card {
   display: flex;
   flex-direction: row;
+  align-items: center;
   background: #fafafa;
   outline: 1px solid var(--ion-color-primary);
   border-left: 5px solid var(--ion-color-primary);
@@ -50,19 +51,14 @@
       text-overflow: ellipsis;
     }
   }
-  .price {
-    margin-right: 10px;
-    width: 20%;
+  ion-fab-button {
+    margin-left: 10px;
+
     display: flex;
     flex-direction: row;
     justify-content: end;
     align-items: center;
     text-align: right;
-    .price-value {
-      font-size: 18px;
-      font-weight: bold;
-      margin: 0;
-      color: green;
-    }
+
   }
 }

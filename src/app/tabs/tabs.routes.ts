@@ -14,6 +14,10 @@ export const routes: Routes = [
             loadComponent: () =>
               import('./health/health.page').then((m) => m.HealthPage),
           },
+          {
+            path: 'medications',
+            loadComponent: () => import('./health/your-medications/your-medications.page').then( m => m.YourMedicationsPage)
+          },
         ],
       },
       {
@@ -43,4 +47,5 @@ export const routes: Routes = [
     redirectTo: '/tabs/health',
     pathMatch: 'full',
   },
+
 ];

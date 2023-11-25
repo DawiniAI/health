@@ -52,4 +52,7 @@ export class HealthPage  {
   goToOrderMedicationsPage(){
     this.router.navigate(["tabs/store"])
   }
+  goToYourMedicationsPage(){
+    this.router.navigate(["tabs/health/medications"])
+  }
 }

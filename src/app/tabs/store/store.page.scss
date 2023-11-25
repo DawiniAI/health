@@ -1,0 +1,68 @@
+
+$ion-padding: 16px;
+
+ion-content {
+  --background: url(../../../assets/pharmacy-bg.webp) no-repeat center center /
+    cover;
+  .searchbar {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-right: $ion-padding;
+    margin-left: $ion-padding;
+    flex: 1;
+    .input {
+      height: 44px;
+      background: white;
+      border-color: var(--ion-color-primary);
+      border-width: thin;
+      border-style: solid;
+      border-radius: 3px;
+      border-radius: 30px;
+      padding-inline-start: 16px;
+      padding-inline-end: 16px;
+      margin-bottom: 16px;
+      overflow: hidden;
+      font-size: 15px;
+      color: #989898;
+      margin-right: 5px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      flex:1;
+      ion-icon {
+        font-size: 20px;
+        color: #989898;
+        margin-right: $ion-padding;
+      }
+      width: 100%;
+
+    }
+    .advanced-search {
+      height: 44px;
+      width: 44px;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+      background: white;
+      border-color: var(--ion-color-primary);
+      border-width: thin;
+      border-style: solid;
+      border-radius: 100%;
+      ion-icon {
+        font-size: 25px;
+        color: var(--ion-color-primary);
+      }
+    }
+  }
+  .medication-list {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 16px;
+    padding: 20px;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+  }
+}

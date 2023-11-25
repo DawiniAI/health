@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg 
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30"
+   viewBox="0 0 30 30"
+   version="1.1"
+   id="svg822"
+   inkscape:version="0.92.4 (f8dce91, 2019-08-02)"
+   sodipodi:docname="admin.svg">
+  <defs
+     id="defs816" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="12.610071"
+     inkscape:cx="13.690863"
+     inkscape:cy="14.709664"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid816" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata819">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>
+</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-289.0625)">
+    <path
+       style="opacity:0.91000001;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 11.916016 6.28125 A 4 4 0 0 0 7.9160156 10.28125 A 4 4 0 0 0 11.916016 14.28125 A 4 4 0 0 0 15.916016 10.28125 A 4 4 0 0 0 11.916016 6.28125 z M 8.4628906 15.115234 C 5.2252742 16.489124 3.0845987 19.623082 2.9824219 23.138672 C 5.1722039 25.642012 8.3828992 27.230469 11.972656 27.230469 C 13.939081 27.230469 15.782366 26.738864 17.416016 25.896484 C 16.972529 25.303803 16.599939 24.654546 16.285156 23.957031 C 15.297133 21.767701 14.789426 19.133132 14.728516 16.570312 L 14.722656 16.318359 L 12.001953 20.574219 L 8.4628906 15.115234 z M 22.037109 15.308594 C 20.292352 15.308594 17.177734 17.251953 17.177734 17.251953 C 17.287817 21.883593 19.126557 27.009156 22.037109 26.972656 C 22.040309 26.972626 22.043675 26.972696 22.046875 26.972656 C 22.864919 26.962256 23.588979 26.535536 24.179688 25.916016 C 24.770398 25.296496 25.255835 24.472265 25.654297 23.546875 C 26.45122 21.696085 26.896484 19.437792 26.896484 17.576172 L 26.896484 17.308594 L 26.671875 17.166016 C 26.671875 17.166016 25.951124 16.70805 25.029297 16.25 C 24.107471 15.79195 23.009546 15.308594 22.041016 15.308594 L 22.037109 15.308594 z M 22.037109 16.279297 L 22.041016 16.279297 C 22.641611 16.279297 23.726421 16.688174 24.597656 17.121094 C 25.326193 17.483104 25.720925 17.73488 25.896484 17.84375 C 25.857384 19.50574 25.45849 21.539389 24.759766 23.162109 C 24.392753 24.014469 23.950753 24.748774 23.476562 25.246094 C 23.003258 25.742454 22.526857 25.9928 22.037109 26 L 22.037109 16.279297 z "
+       transform="translate(0,289.0625)"
+       id="path852" />
+  </g>
+</svg>

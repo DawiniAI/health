@@ -1,0 +1,77 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title color="light" class="ion-text-center">Virtual Doctor</ion-title>
+    <ion-buttons slot="end">
+      <ion-icon
+       (click)="goBack()"
+        style="color: white; float: right; font-size: 30px"
+        name="close-outline"
+      ></ion-icon>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <div class="chat-screen"  #chatScreen>
+    <ion-row *ngFor="let chat of chats">
+      <ng-container *ngIf="chat.role === 'user'">
+        <ion-col size="10" class="message-container my-message-container">
+          <div class="message-bubble">
+            <p class="message" dir="auto">{{chat.content}}</p>
+            <div class="meta">me</div>
+          </div>
+        </ion-col>
+        <ion-col size="2">
+          <ion-avatar>
+            <img src="assets/patient-avatar.webp" />
+
+          </ion-avatar> </ion-col
+      ></ng-container>
+
+      <ng-container *ngIf="chat.role === 'assistant'">
+        <ion-avatar>
+          <img src="assets/robot-logo.webp" />
+        </ion-avatar>
+        <ion-col size="10" class="message-container others-message-container">
+          <div class="message-bubble">
+            <p class="message" dir="auto">{{chat.content}}</p>
+
+            <div class="meta">
+              Dawini
+            </div>
+          </div>
+        </ion-col>
+        <ion-col> </ion-col
+      ></ng-container>
+    </ion-row>
+  </div>
+
+
+</ion-content>
+
+<ion-footer>
+  <div style="font-size: 12px;width: 100%;text-align: center; background:rgb(119, 81, 204) ;color: white;">Ask me general question regarding your health</div>
+  <ion-toolbar class="message-input-area">
+    <ion-buttons slot="start">
+      <!-- <ion-button color="light" button>
+        <ion-icon class="link-icon" slot="icon-only" name="link"></ion-icon>
+      </ion-button> -->
+    </ion-buttons>
+    <ion-input
+      type="text"
+      placeholder="Type your message here..."
+      [(ngModel)]="message"
+      class="message-input"
+      #messageInput
+      (keyup.enter)="chat(messageInput.value)"
+    ></ion-input>
+    <ion-buttons slot="end">
+      <!-- <ion-button color="light" button>
+        <ion-icon class="mic-icon" slot="icon-only" name="mic"></ion-icon>
+      </ion-button> -->
+      <ion-button (click)="chat(messageInput.value)">
+        <ion-icon class="send-icon" slot="icon-only" name="send"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-footer>

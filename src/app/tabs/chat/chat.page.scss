@@ -1,0 +1,117 @@
+ion-toolbar {
+  --background: linear-gradient(
+    109.6deg,
+    rgb(157, 75, 199) 11.2%,
+    rgb(119, 81, 204) 83.1%
+  );
+  //material shadow
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+  height: 56px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  .title {
+    margin-top: 16px;
+    color: white;
+    font-weight: 600;
+    font-size: 25px;
+    text-align: center;
+    //change font name
+    font-family: "Roboto", sans-serif;
+  }
+}
+
+ion-content {
+  --background: url(../../../assets/health-bg.png) no-repeat center center /
+    cover;
+  --padding-bottom: env(safe-area-inset-bottom);
+}
+
+.message-bubble {
+  min-width: 100px;
+  max-width: 90%;
+  padding: 5px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  text-align: right;
+  display: inline-block;
+  vertical-align: center;
+  box-shadow: 1px 1px 5px rgb(0 0 0 / 20%);
+  text-align: left;
+  position: relative;
+}
+.meta {
+  color: grey;
+  position: absolute;
+  bottom: -20px;
+  font-size: small;
+  width: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.my-message-container {
+  .message-bubble {
+    background: rgb(119, 81, 204);
+    color: #fff;
+    float: right;
+    text-align: left;
+    .meta {
+      right: 0;
+      text-align: right;
+    }
+  }
+}
+
+.others-message-container {
+  .message-bubble {
+    background: white;
+    color: black;
+    float: left;
+    text-align: left;
+    .meta {
+      left: 0;
+    }
+  }
+}
+
+.message-container {
+  margin-bottom: 10px;
+}
+
+.link-icon,
+.send-icon,
+.mic-icon {
+  color: rgb(119, 81, 204);
+}
+.link-icon,
+.send-icon {
+  transform: rotate(-45deg);
+}
+
+.mic-icon {
+  position: relative;
+  top: 2px;
+  transform: scale(1.2);
+}
+
+.message-input {
+  color: grey;
+}
+
+.message-input-area {
+  box-shadow: 0px 0px 5px rgb(0 0 0 / 20%);
+  --background: white;
+  border: 3px solid rgb(119, 81, 204);
+}
+
+ion-footer {
+  //margin bottom safe area
+  padding-bottom: env(safe-area-inset-bottom);
+  background: white;
+}
+
+.message {
+  white-space: pre-line;
+}

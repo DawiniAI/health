@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "dawini2023": {
+      "hosting": {
+        "app": [
+          "dawini2023"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "dawini2023"
+  }
+}

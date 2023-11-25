@@ -1,0 +1,23 @@
+
+<ion-content [fullscreen]="true">
+<div class="medications">
+  <div class="searchbar">
+    <div class="input">
+      <ion-icon name="search-outline"></ion-icon>
+      <ion-input
+        type="text"
+        placeholder="Search By {{searchType}}"
+        [(ngModel)]="searchTerm"
+        [clearInput]="true"
+        (ionInput)="onSearchInput($event)"
+      ></ion-input>
+    </div>
+    <div class="advanced-search" [routerLink]="['/advanced-search']">
+      <ion-icon name="options-outline"></ion-icon>
+    </div>
+  </div>
+  <div class="medication-list">
+    <app-medication-card-store *ngFor="let medication of searchResults" [medication]="medication" (addToCartEvent)="addToCart(medication)"></app-medication-card-store>
+  </div>
+</div>
+</ion-content>

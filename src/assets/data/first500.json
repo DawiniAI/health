@@ -1,0 +1,2507 @@
+[
+  {
+    "id": 1,
+    "tradename": "1 2 3 (ONE TWO THREE) 20 F.C TABS.",
+    "activeingredient": "CHLORPHENIRAMINE+PARACETAMOL(ACETAMINOPHEN)+PSEUDOEPHEDRINE"
+  },
+  {
+    "id": 2,
+    "tradename": "1 2 3 (ONE TWO THREE) SUSP. 120 ML",
+    "activeingredient": "CHLORPHENIRAMINE+PARACETAMOL(ACETAMINOPHEN)+PSEUDOEPHEDRINE"
+  },
+  {
+    "id": 3,
+    "tradename": "4 WET INTIMATE GEL 100 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 4,
+    "tradename": "5-FLUOROURACIL-EBEWE 250MG/5ML I.V. VIAL",
+    "activeingredient": "FLUOROURACIL"
+  },
+  {
+    "id": 5,
+    "tradename": "5-HT 200 MG 60 CAPS. (ILLEGAL IMPORT)",
+    "activeingredient": "L-5-HYDROXY-TRYPTOPHAN"
+  },
+  {
+    "id": 6,
+    "tradename": "5FU 250MG/5ML VIAL(N/A)",
+    "activeingredient": "FLUOROURACIL"
+  },
+  {
+    "id": 7,
+    "tradename": "A-VITON 50.000 I.U. 20 CAPS.",
+    "activeingredient": "VITAMIN A"
+  },
+  {
+    "id": 8,
+    "tradename": "A.ONE SOAP 100 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 9,
+    "tradename": "A.T.G FRESENIUS 20MG/ML CONC. VIAL 5 ML (CANCELLED)",
+    "activeingredient": "ANTI-T LYMPHOCYTE(ANTI-THYMOCYTE) IMMUNOGLOBULIN=A.T.G."
+  },
+  {
+    "id": 10,
+    "tradename": "A1 CREAM 100 GM",
+    "activeingredient": "CASTOR OIL+ZINC OXIDE+ARACHIS OIL+BEES WAX"
+  },
+  {
+    "id": 11,
+    "tradename": "A1 CREAM 50 GM",
+    "activeingredient": "CASTOR OIL+ZINC OXIDE+ARACHIS OIL+BEES WAX"
+  },
+  {
+    "id": 12,
+    "tradename": "AAPE RENEWAL EYE CREAM 20 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 13,
+    "tradename": "AAPE RENEWAL FACE CREAM 50 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 14,
+    "tradename": "AAPE RENEWAL FACIAL TONER 130 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 15,
+    "tradename": "AAPE RENEWAL MASK 10 PCS",
+    "activeingredient": null
+  },
+  {
+    "id": 16,
+    "tradename": "AAPE RENEWAL SERUM 40 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 17,
+    "tradename": "AAPE RENEWAL SUNSCREEN SPF 45 - 60 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 18,
+    "tradename": "ABC IMMUNE 10 SACHETS",
+    "activeingredient": "VITAMIN C+ZINC"
+  },
+  {
+    "id": 19,
+    "tradename": "ABC LEMON & HONEY SYRUP 60 ML",
+    "activeingredient": "NATURAL HONEY+CITRIC ACID+LEMON JUICE CONCENTRATE"
+  },
+  {
+    "id": 20,
+    "tradename": "ABC MOCOTIVE TOPICAL SPRAY 70 ML",
+    "activeingredient": "ALCOHOL 70%+TEA TREE OIL +VIT.E+CHAMOMILE +ALUMINIUM CHLORIDE HEXAHYDRATE+GLYCERIN"
+  },
+  {
+    "id": 21,
+    "tradename": "ABC OMEGA 3-6-9 SYRUP 60 ML",
+    "activeingredient": "WHEAT GERM OIL"
+  },
+  {
+    "id": 22,
+    "tradename": "ABDOMINAL BELT",
+    "activeingredient": null
+  },
+  {
+    "id": 23,
+    "tradename": "ABERTO CREAM 75 GM",
+    "activeingredient": "GLYCERIN+EXT (LICORICE-GREEN-CUCUMBER)+PARAFFIN OIL+VITAMIN E&C+KOJIC ACID+TITANIUM DIOXIDE"
+  },
+  {
+    "id": 24,
+    "tradename": "ABEVAC 1MG/ML VIAL",
+    "activeingredient": "BEE VENOM"
+  },
+  {
+    "id": 25,
+    "tradename": "ABILAXINE 10MG 5 ADULT SUPP.",
+    "activeingredient": "BISACODYL"
+  },
+  {
+    "id": 26,
+    "tradename": "ABILAXINE 5 MG 20 COATED TAB.",
+    "activeingredient": "BISACODYL"
+  },
+  {
+    "id": 27,
+    "tradename": "ABILAXINE 5MG 5 INFANTILE SUPP.",
+    "activeingredient": "BISACODYL"
+  },
+  {
+    "id": 28,
+    "tradename": "ABILIA 15MG 30 F.C.TABS.",
+    "activeingredient": "ARIPIPRAZOLE"
+  },
+  {
+    "id": 29,
+    "tradename": "ABILIA 20MG 30 F.C.TABS.",
+    "activeingredient": "ARIPIPRAZOLE"
+  },
+  {
+    "id": 30,
+    "tradename": "ABILIFY 10 MG 10 DISCMELT ORALLY DIS.TABS.",
+    "activeingredient": "ARIPIPRAZOLE"
+  },
+  {
+    "id": 31,
+    "tradename": "ABILIFY 10 MG 10 TABS.",
+    "activeingredient": "ARIPIPRAZOLE"
+  },
+  {
+    "id": 32,
+    "tradename": "ABILIFY 15 MG 10 DISCMELT ORALLY DIS.TABS.",
+    "activeingredient": "ARIPIPRAZOLE"
+  },
+  {
+    "id": 33,
+    "tradename": "ABILIFY 15 MG 10 TABS.",
+    "activeingredient": "ARIPIPRAZOLE"
+  },
+  {
+    "id": 34,
+    "tradename": "ABILIFY 5 MG 10 TABS.",
+    "activeingredient": "ARIPIPRAZOLE"
+  },
+  {
+    "id": 35,
+    "tradename": "ABIMOL 150MG/5ML SYRUP 125ML",
+    "activeingredient": "PARACETAMOL(ACETAMINOPHEN)"
+  },
+  {
+    "id": 36,
+    "tradename": "ABIMOL 300MG 5 RECTAL SUPP.",
+    "activeingredient": "PARACETAMOL(ACETAMINOPHEN)"
+  },
+  {
+    "id": 37,
+    "tradename": "ABIMOL 500 MG 20 TAB.",
+    "activeingredient": "PARACETAMOL(ACETAMINOPHEN)"
+  },
+  {
+    "id": 38,
+    "tradename": "ABIMOL EXTRA 20 TAB.",
+    "activeingredient": "CAFFEINE+PARACETAMOL(ACETAMINOPHEN)"
+  },
+  {
+    "id": 39,
+    "tradename": "ABIONEM CREAM 60 GM",
+    "activeingredient": "HYALURONIC ACID+COLLAGEN+NIGELLA SATIVA+MENTHOL"
+  },
+  {
+    "id": 40,
+    "tradename": "ABITAL ORAL SPRAY 30 ML",
+    "activeingredient": "MELALEUCA ALTERNIFOLIA EXTRACT+THYMUS EXTRACT+MENTHA PIPERITA EXTRACT+SALVIA OFFICINALIS EXTRACT+PRO"
+  },
+  {
+    "id": 41,
+    "tradename": "ABIVIT-A 50.000 I.U. 20 CAPS. (CANCELLED)",
+    "activeingredient": "VITAMIN A"
+  },
+  {
+    "id": 42,
+    "tradename": "ABRAMMUNE 100MG/ML SYRUP(N/A YET)",
+    "activeingredient": "CYCLOSPORIN"
+  },
+  {
+    "id": 43,
+    "tradename": "ABRAMMUNE 25 MG 10 CAPS.(N/A YET)",
+    "activeingredient": "CYCLOSPORIN"
+  },
+  {
+    "id": 44,
+    "tradename": "ABRAMMUNE 50 MG 10 CAPS.(N/A YET)",
+    "activeingredient": "CYCLOSPORIN"
+  },
+  {
+    "id": 45,
+    "tradename": "ABRAMMUNE 50MG/ML SYRUP(N/A YET)",
+    "activeingredient": "CYCLOSPORIN"
+  },
+  {
+    "id": 46,
+    "tradename": "ABRAXANE 100MG VIAL SS",
+    "activeingredient": "PACLITAXEL PROTEIN-BOUND"
+  },
+  {
+    "id": 47,
+    "tradename": "ABSORBABLE SELENIUM 200 MCG 100 CAPS. (ILLEGAL IMPORT)",
+    "activeingredient": "SELENIUM"
+  },
+  {
+    "id": 48,
+    "tradename": "ABSTAIN SR 150 MG 20TABS.(N/A YET)",
+    "activeingredient": "BUPROPION"
+  },
+  {
+    "id": 49,
+    "tradename": "ABSTRAL 100MCG 10 SUBLINGUAL TABS.",
+    "activeingredient": "FENTANYL"
+  },
+  {
+    "id": 50,
+    "tradename": "ABSTRAL 200MCG 10 SUBLINGUAL TABS.",
+    "activeingredient": "FENTANYL"
+  },
+  {
+    "id": 51,
+    "tradename": "ABSTRAL 400MCG 10 SUBLINGUAL TABS.",
+    "activeingredient": "FENTANYL"
+  },
+  {
+    "id": 52,
+    "tradename": "ACAI BERRY 60 VEG. CAPS. (NATROL)",
+    "activeingredient": "ACAI EXTRACT"
+  },
+  {
+    "id": 53,
+    "tradename": "ACANTHAPROP 1MG/ML EYE DROPS 10 ML",
+    "activeingredient": "PROPAMIDINE ISETHIONATE"
+  },
+  {
+    "id": 54,
+    "tradename": "ACAPRIL 20MG 20 TAB.",
+    "activeingredient": "ENALAPRIL"
+  },
+  {
+    "id": 55,
+    "tradename": "ACAPRIL 5 MG 10 TAB.",
+    "activeingredient": "ENALAPRIL"
+  },
+  {
+    "id": 56,
+    "tradename": "ACAVIO MASSAGE GEL 50 GM",
+    "activeingredient": "CAMPHOR+MENTOL CRYSTALS+EUCALYPTUS+ETHANOLOMINE EXTRACT GLYCERIN"
+  },
+  {
+    "id": 57,
+    "tradename": "ACC 200MG 20 SACHETS",
+    "activeingredient": "ACETYLCYSTEINE"
+  },
+  {
+    "id": 58,
+    "tradename": "ACC LONG 600MG 5 EFFERVESCENT TAB.",
+    "activeingredient": "ACETYLCYSTEINE"
+  },
+  {
+    "id": 59,
+    "tradename": "ACCENT CREAM 30 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 60,
+    "tradename": "ACCENT CREAM 50 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 61,
+    "tradename": "ACCOFIL 30 MIU/0.5ML 5 PREFILLED SYRINGES",
+    "activeingredient": "FILGRASTIM"
+  },
+  {
+    "id": 62,
+    "tradename": "ACCOLATE 20MG 28 TAB.",
+    "activeingredient": "ZAFIRLUKAST"
+  },
+  {
+    "id": 63,
+    "tradename": "ACECLOCOPA 100 MG 20 F.C. TAB.",
+    "activeingredient": "ACECLOFENAC"
+  },
+  {
+    "id": 64,
+    "tradename": "ACELIOFINAZ 100 MG 20 F.C. TAB.",
+    "activeingredient": "ACECLOFENAC"
+  },
+  {
+    "id": 65,
+    "tradename": "ACEMETACIN STADA 60MG 20 CAPS.",
+    "activeingredient": "ACEMETACIN"
+  },
+  {
+    "id": 66,
+    "tradename": "ACENEWRAX 200 MG 10 SACHETS",
+    "activeingredient": "ACETYLCYSTEINE"
+  },
+  {
+    "id": 67,
+    "tradename": "ACENEWRAX 600 MG 10 SACHETS",
+    "activeingredient": "ACETYLCYSTEINE"
+  },
+  {
+    "id": 68,
+    "tradename": "ACERUMEN EAR SPRAY 40 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 69,
+    "tradename": "ACESOLV 2% SYRUP 60ML",
+    "activeingredient": "ACETYLCYSTEINE"
+  },
+  {
+    "id": 70,
+    "tradename": "ACETALGAN 1 GM/100ML SOL. FOR I.V. VIAL",
+    "activeingredient": "PARACETAMOL(ACETAMINOPHEN)"
+  },
+  {
+    "id": 71,
+    "tradename": "ACETAMEX 250 MG 20 TABS.(N/A)",
+    "activeingredient": "ACETAZOLAMIDE"
+  },
+  {
+    "id": 72,
+    "tradename": "ACETAMINOPHEN 125MG PAED. SUPP.U.S.P.XXIII",
+    "activeingredient": "PARACETAMOL(ACETAMINOPHEN)"
+  },
+  {
+    "id": 73,
+    "tradename": "ACETAPROFEN 100ML SUSP.",
+    "activeingredient": "IBUPROFEN+PARACETAMOL(ACETAMINOPHEN)"
+  },
+  {
+    "id": 74,
+    "tradename": "ACETAPROFEN 120ML SUSP.",
+    "activeingredient": "IBUPROFEN+PARACETAMOL(ACETAMINOPHEN)"
+  },
+  {
+    "id": 75,
+    "tradename": "ACETASEE 1% EYE DROPS (SUSP.) 5 ML",
+    "activeingredient": "PREDNISOLONE"
+  },
+  {
+    "id": 76,
+    "tradename": "ACETO-V VAGINAL WASH 250 ML",
+    "activeingredient": "CHLORHEXIDINE"
+  },
+  {
+    "id": 77,
+    "tradename": "ACETOFLU COLD AND FLU 20 F.C. TABS.",
+    "activeingredient": "DIPHENHYDRAMINE+PARACETAMOL(ACETAMINOPHEN)+PSEUDOEPHEDRINE"
+  },
+  {
+    "id": 78,
+    "tradename": "ACETOFLU COLD AND FLU SYRUP 100 ML",
+    "activeingredient": "DIPHENHYDRAMINE+PARACETAMOL(ACETAMINOPHEN)+PSEUDOEPHEDRINE"
+  },
+  {
+    "id": 79,
+    "tradename": "ACETOFUL FOR WOMEN 10 TABS.",
+    "activeingredient": "PAMABROM+PARACETAMOL(ACETAMINOPHEN)"
+  },
+  {
+    "id": 80,
+    "tradename": "ACETORPHAN CHILDREN 30MG ORAL SACHET",
+    "activeingredient": "RACECADOTRIL"
+  },
+  {
+    "id": 81,
+    "tradename": "ACETORPHAN INFANT 10MG ORAL SACHETS",
+    "activeingredient": "RACECADOTRIL"
+  },
+  {
+    "id": 82,
+    "tradename": "ACETYLCISTEIN 200 MG 10 SACHET",
+    "activeingredient": "ACETYLCYSTEINE"
+  },
+  {
+    "id": 83,
+    "tradename": "ACETYLCISTEIN 600 MG 10 EFF. INSTANT GRAN. SACHETS",
+    "activeingredient": "ACETYLCYSTEINE"
+  },
+  {
+    "id": 84,
+    "tradename": "ACETYLCYSTDAR 600 MG 12 EFF. TABS.",
+    "activeingredient": "ACETYLCYSTEINE"
+  },
+  {
+    "id": 85,
+    "tradename": "ACHTENON 2 MG 30 TABS.",
+    "activeingredient": "BIPERIDENE"
+  },
+  {
+    "id": 86,
+    "tradename": "ACHTERCTIN 0.5% 60ML LOTION(N/A YET)",
+    "activeingredient": "IVERMECTIN"
+  },
+  {
+    "id": 87,
+    "tradename": "ACICLOVIR MYLAN 250 MG 5 VIALS",
+    "activeingredient": "ACYCLOVIR"
+  },
+  {
+    "id": 88,
+    "tradename": "ACICLOVIR MYLAN 500 MG 5 VIALS",
+    "activeingredient": "ACYCLOVIR"
+  },
+  {
+    "id": 89,
+    "tradename": "ACICONE 720 MG 20 CHEW. TAB.",
+    "activeingredient": "MAGALDRATE"
+  },
+  {
+    "id": 90,
+    "tradename": "ACICONE SUSP. 120ML",
+    "activeingredient": "MAGALDRATE"
+  },
+  {
+    "id": 91,
+    "tradename": "ACICONE SUSP. 200 ML",
+    "activeingredient": "MAGALDRATE"
+  },
+  {
+    "id": 92,
+    "tradename": "ACICONE-S 720/25MG 20 CHEW. TAB.",
+    "activeingredient": "MAGALDRATE+SIMETHICONE"
+  },
+  {
+    "id": 93,
+    "tradename": "ACICONE-S ORAL SUSP. 120ML",
+    "activeingredient": "MAGALDRATE+SIMETHICONE"
+  },
+  {
+    "id": 94,
+    "tradename": "ACICONE-S ORAL SUSP. 200ML",
+    "activeingredient": "MAGALDRATE+SIMETHICONE"
+  },
+  {
+    "id": 95,
+    "tradename": "ACIDIPAN ORAL SUSP. 180 ML",
+    "activeingredient": "ALUMINIUM HYDROXIDE+MAGNESIUM HYDROXIDE+SIMETHICONE"
+  },
+  {
+    "id": 96,
+    "tradename": "ACIDOPHILUS PROBIOTIC 150 TABS. (NATROL)",
+    "activeingredient": "LACTOBACILLUS ACIDOPHILUS+PROBIOTICS"
+  },
+  {
+    "id": 97,
+    "tradename": "ACIK CREAM 50 GM",
+    "activeingredient": "SALICYLIC ACID+LAVENDER OIL+WITCH HAZEL EXTRACT+RETINOL+LACTIC ACID+PROPOLIS EXTRACT+TEA TREE OIL+THYME OIL+PANTHENOL+VITAMIN E+SULFUR"
+  },
+  {
+    "id": 98,
+    "tradename": "ACILIGHT 150MG 30 FILM COATED TAB. (CANCELLED)",
+    "activeingredient": "RANITIDINE"
+  },
+  {
+    "id": 99,
+    "tradename": "ACILIGHT 75MG 20 COATED TAB. (CANCELLED)",
+    "activeingredient": "RANITIDINE"
+  },
+  {
+    "id": 100,
+    "tradename": "ACILOC 150MG EFF.GRANULES 5 SACHETS (CANCELLED)",
+    "activeingredient": "RANITIDINE"
+  },
+  {
+    "id": 101,
+    "tradename": "ACILOC 300MG 20 F.C. TABS. (CANCELLED)",
+    "activeingredient": "RANITIDINE"
+  },
+  {
+    "id": 102,
+    "tradename": "ACILOC 75 MG 20 F.C. TABS. (CANCELLED)",
+    "activeingredient": "RANITIDINE"
+  },
+  {
+    "id": 103,
+    "tradename": "ACITRETIN 10MG 30 CAPS.",
+    "activeingredient": "ACITRETIN"
+  },
+  {
+    "id": 104,
+    "tradename": "ACITRETIN 25MG 30 CAPS.",
+    "activeingredient": "ACITRETIN"
+  },
+  {
+    "id": 105,
+    "tradename": "ACIVIRAX 400MG 30 TABS.",
+    "activeingredient": "ACYCLOVIR"
+  },
+  {
+    "id": 106,
+    "tradename": "ACIVIRAX 800MG 20 TABS.",
+    "activeingredient": "ACYCLOVIR"
+  },
+  {
+    "id": 107,
+    "tradename": "ACLASTA 5MG/100ML SOLN. FOR INF.",
+    "activeingredient": "ZOLEDRONIC ACID"
+  },
+  {
+    "id": 108,
+    "tradename": "ACLESS SOAP 100 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 109,
+    "tradename": "ACNE BENZ TOPICAL GEL 30 GM",
+    "activeingredient": "BENZOYL PEROXIDE+ERYTHROMYCIN"
+  },
+  {
+    "id": 110,
+    "tradename": "ACNE BIOTIC PAINT 15 ML",
+    "activeingredient": "ERYTHROMYCIN+ZINC ACETATE"
+  },
+  {
+    "id": 111,
+    "tradename": "ACNE FREE 0.025% GEL 30 GM (N/A)",
+    "activeingredient": "TRETINOIN"
+  },
+  {
+    "id": 112,
+    "tradename": "ACNE FREE 0.05% CREAM 30 GM",
+    "activeingredient": "TRETINOIN"
+  },
+  {
+    "id": 113,
+    "tradename": "ACNE ZINC TOPICAL SOLUTION 20 ML",
+    "activeingredient": "ERYTHROMYCIN+ZINC ACETATE"
+  },
+  {
+    "id": 114,
+    "tradename": "ACNE-JED 0.1% TOPICAL GEL 15 GM",
+    "activeingredient": "ADAPALENE"
+  },
+  {
+    "id": 115,
+    "tradename": "ACNE-STOP CREAM 30 GM",
+    "activeingredient": "OLEANOLIC ACID+NDGA (NORDIHYDROGUAIARETIC ACID)+PROPOLIS+OSMOTIC GEL"
+  },
+  {
+    "id": 116,
+    "tradename": "ACNE-STOP FACIAL WASH 250 ML",
+    "activeingredient": "OLEANOLIC ACID+NDGA (NORDIHYDROGUAIARETIC ACID)+PROPOLIS+OSMOTIC GEL"
+  },
+  {
+    "id": 117,
+    "tradename": "ACNE-STOP SYSTEM (CREAM+WASH)",
+    "activeingredient": "OLEANOLIC ACID+NDGA (NORDIHYDROGUAIARETIC ACID)+PROPOLIS+OSMOTIC GEL"
+  },
+  {
+    "id": 118,
+    "tradename": "ACNEBLESS CREAM 50 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 119,
+    "tradename": "ACNEBLESS FACIAL CLEANSING FOAMING GEL 200 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 120,
+    "tradename": "ACNEBLESS FACIAL GEL 50 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 121,
+    "tradename": "ACNEFENCE TOPICAL GEL 50 GM",
+    "activeingredient": "GLYCOLIC ACID+SALICYLIC ACID+GREEN TEA EXTRACT+CHAMOMILE+RETINYL PALMITATE+VITAMIN E+ASCORBIC ACID"
+  },
+  {
+    "id": 122,
+    "tradename": "ACNESCAVE 0.1% TOPICAL GEL 30 GM",
+    "activeingredient": "ADAPALENE"
+  },
+  {
+    "id": 123,
+    "tradename": "ACNESEPT 80 GRAM SOAP",
+    "activeingredient": "TRICLOSAN(IRGASAN)+TEGOBETAIN+CITRIC ACID+SULPHUR PPT.+SALICYLIC ACID+MENTHOL+ZINC OXIDE+LEMON OIL"
+  },
+  {
+    "id": 124,
+    "tradename": "ACNESOL SOAP 100 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 125,
+    "tradename": "ACNESONE LOTION 60 ML",
+    "activeingredient": "CALAMINE+HYDROCORTISONE+SULPHUR"
+  },
+  {
+    "id": 126,
+    "tradename": "ACNETIN- A 0.025% TOPICAL GEL 30 GM",
+    "activeingredient": "TRETINOIN"
+  },
+  {
+    "id": 127,
+    "tradename": "ACNETIN- A 0.05% CREAM 30 GM",
+    "activeingredient": "TRETINOIN"
+  },
+  {
+    "id": 128,
+    "tradename": "ACNETIN- A 0.05% TOPICAL SOL. 15 ML",
+    "activeingredient": "TRETINOIN"
+  },
+  {
+    "id": 129,
+    "tradename": "ACNETROX 1% TOPICAL CREAM 25 GM",
+    "activeingredient": "NADIFLOXACIN"
+  },
+  {
+    "id": 130,
+    "tradename": "ACNEVERA SOAP 80 GM",
+    "activeingredient": "ALOE VERA+ZINC OXIDE+SALICYLIC ACID+SULPHUR+RESORCINOL"
+  },
+  {
+    "id": 131,
+    "tradename": "ACNEVIT ANTI-ACNE CLEANSING GEL 200 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 132,
+    "tradename": "ACNEVIT ANTI-ACNE SERUM 30 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 133,
+    "tradename": "ACNI-CARE 2% LOTION 25 ML",
+    "activeingredient": "ERYTHROMYCIN"
+  },
+  {
+    "id": 134,
+    "tradename": "ACNI-CARE 2% TOP. GEL. 20 GM",
+    "activeingredient": "ERYTHROMYCIN"
+  },
+  {
+    "id": 135,
+    "tradename": "ACNIACT TOPICAL GEL 15 GM",
+    "activeingredient": "ADAPALENE+BENZOYL PEROXIDE"
+  },
+  {
+    "id": 136,
+    "tradename": "ACNIDU TOPICAL GEL",
+    "activeingredient": "BENZOYL PEROXIDE+ERYTHROMYCIN"
+  },
+  {
+    "id": 137,
+    "tradename": "ACNIL LOTION 60 ML",
+    "activeingredient": "SULPHUR PPT.+RESORCIN"
+  },
+  {
+    "id": 138,
+    "tradename": "ACNIMED FACE FOAM CLEANSER 200 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 139,
+    "tradename": "ACNIMED TOPICAL GEL 75 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 140,
+    "tradename": "ACNISWAB 0.1% CREAM 30 GM",
+    "activeingredient": "TAZAROTENE"
+  },
+  {
+    "id": 141,
+    "tradename": "ACNITAZ 0.1% TOPICAL GEL. 15 GM",
+    "activeingredient": "TAZAROTENE"
+  },
+  {
+    "id": 142,
+    "tradename": "ACNORA CREAM 50 ML",
+    "activeingredient": "LAVENDER+THYME+HYPERICUM+OLIVE LEAF EXT."
+  },
+  {
+    "id": 143,
+    "tradename": "ACOMPLIA 20MG  14F.C.TABLET (WITHDRAWAL)",
+    "activeingredient": "RIMONABANT"
+  },
+  {
+    "id": 144,
+    "tradename": "ACPOPHAR 81 MG 30 E.C. TABS.",
+    "activeingredient": "ACETYLSALICYLIC ACID"
+  },
+  {
+    "id": 145,
+    "tradename": "ACRETIN 0.025% CREAM 30 GM",
+    "activeingredient": "TRETINOIN"
+  },
+  {
+    "id": 146,
+    "tradename": "ACRETIN 0.05% CREAM 30 GM",
+    "activeingredient": "TRETINOIN"
+  },
+  {
+    "id": 147,
+    "tradename": "ACRO CREAM 75 GM",
+    "activeingredient": "VITAMIN A+VITAMIN E"
+  },
+  {
+    "id": 148,
+    "tradename": "ACROCAL 24 CHEWABLE TABS.",
+    "activeingredient": "CALCIUM+MAGNESIUM+ZINC+VITAMIN D3"
+  },
+  {
+    "id": 149,
+    "tradename": "ACT HAIR SHAMPOO 125 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 150,
+    "tradename": "ACT LIFE 20 CAPSULES",
+    "activeingredient": "CHROMIUM PICOLINATE"
+  },
+  {
+    "id": 151,
+    "tradename": "ACT-HIB VACCINE 10MCG/0.5ML VIAL",
+    "activeingredient": "HAEMOPHILUS INFLUENZA+TETANUS TOXOID"
+  },
+  {
+    "id": 152,
+    "tradename": "ACTEMRA 200 MG/10ML VIAL FOR I.V. INF.",
+    "activeingredient": "TOCILIZUMAB"
+  },
+  {
+    "id": 153,
+    "tradename": "ACTEMRA 400 MG/20ML VIAL FOR I.V. INF.",
+    "activeingredient": "TOCILIZUMAB"
+  },
+  {
+    "id": 154,
+    "tradename": "ACTEMRA 80 MG/4ML VIAL FOR I.V. INF.",
+    "activeingredient": "TOCILIZUMAB"
+  },
+  {
+    "id": 155,
+    "tradename": "ACTI 4 PLUS WHITENING CREAM 75 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 156,
+    "tradename": "ACTI-COLLA ADVANCE 10 SACHETS",
+    "activeingredient": "GELATIN (COLLAGEN) HYDROLYSATE+VITAMIN C+TURMERIC+BLACK PEPPER"
+  },
+  {
+    "id": 157,
+    "tradename": "ACTI-COLLA ADVANCE 30 SACHETS",
+    "activeingredient": "GELATIN (COLLAGEN) HYDROLYSATE+VITAMIN C+TURMERIC+BLACK PEPPER"
+  },
+  {
+    "id": 158,
+    "tradename": "ACTI-COLLA-C 10 SACHETS",
+    "activeingredient": "GELATIN (COLLAGEN) HYDROLYSATE+VITAMIN C+ROSEHIP EXTRACT"
+  },
+  {
+    "id": 159,
+    "tradename": "ACTI-COLLA-C 30 SACHETS",
+    "activeingredient": "GELATIN (COLLAGEN) HYDROLYSATE+VITAMIN C+ROSEHIP EXTRACT"
+  },
+  {
+    "id": 160,
+    "tradename": "ACTI-FOLIC 30 TABS.",
+    "activeingredient": "L-METHYLFOLATE"
+  },
+  {
+    "id": 161,
+    "tradename": "ACTI-VITA CLEANSING LOTION 200 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 162,
+    "tradename": "ACTI-VITA ENRICHED EYE CREME PROCGEN 15 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 163,
+    "tradename": "ACTI-VITA GOLD PROCGEN CREME DAY/NIGHT 50 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 164,
+    "tradename": "ACTI-VITA GOLD PROCGEN SERUM 15 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 165,
+    "tradename": "ACTI-VITA GOLD PROCGEN SOFTENING LOTION 125 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 166,
+    "tradename": "ACTI-VITA PERFECT COMPLEXION MASK 100 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 167,
+    "tradename": "ACTI-VITA ULTRA RICH CREME PROCGEN 50 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 168,
+    "tradename": "ACTICA 10 SACHETS",
+    "activeingredient": "CALCIUM CARBONATE+MAGNESIUM+ZINC+VIT.D3+VIT.K2+LACTOFERRIN"
+  },
+  {
+    "id": 169,
+    "tradename": "ACTIDIOR GEL 25 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 170,
+    "tradename": "ACTIFAST 12.5MG 20 TAB.",
+    "activeingredient": "DICLOFENAC POTASSIUM"
+  },
+  {
+    "id": 171,
+    "tradename": "ACTIFAST 50 MG 30 F.C.TAB.",
+    "activeingredient": "DICLOFENAC POTASSIUM"
+  },
+  {
+    "id": 172,
+    "tradename": "ACTIFAST 50 MG 30 SACHETS",
+    "activeingredient": "DICLOFENAC POTASSIUM"
+  },
+  {
+    "id": 173,
+    "tradename": "ACTIFAST 50 MG 6 SACHETS",
+    "activeingredient": "DICLOFENAC POTASSIUM"
+  },
+  {
+    "id": 174,
+    "tradename": "ACTIFED 12 TAB.",
+    "activeingredient": "PSEUDOEPHEDRINE+TRIPROLIDINE"
+  },
+  {
+    "id": 175,
+    "tradename": "ACTIFED EXPECTORANT SYRUP 120 ML",
+    "activeingredient": "GUAIFENESIN+PSEUDOEPHEDRINE+TRIPROLIDINE"
+  },
+  {
+    "id": 176,
+    "tradename": "ACTIFED SYRUP 120ML",
+    "activeingredient": "PSEUDOEPHEDRINE+TRIPROLIDINE"
+  },
+  {
+    "id": 177,
+    "tradename": "ACTIFLASH MASSAGE GEL 100 GM",
+    "activeingredient": "PEPPERMINT+CAMPHOR+EUCALYPTUS+TEA TREE OIL+ALMOND+VIT.E&B6+CLOVE OIL+CINNAMON+GREEN TEA+POMEGRANATE"
+  },
+  {
+    "id": 178,
+    "tradename": "ACTIFLASH MASSAGE GEL 50 GM",
+    "activeingredient": "PEPPERMINT+CAMPHOR+EUCALYPTUS+TEA TREE OIL+ALMOND+VIT.E&B6+CLOVE OIL+CINNAMON+GREEN TEA+POMEGRANATE"
+  },
+  {
+    "id": 179,
+    "tradename": "ACTIHER 10 SACHETS * 3 GM",
+    "activeingredient": "FENUGREEK+FENNEL+DILL+CARAWAY+CHAMOMILE+ANISE OIL+CALCIUM+VITAMIN D3"
+  },
+  {
+    "id": 180,
+    "tradename": "ACTILYSE 50 MG 2 VIALS+2 SOLVENTS I.V. INF.",
+    "activeingredient": "ALTEPLASE"
+  },
+  {
+    "id": 181,
+    "tradename": "ACTIMAR 30 CAPS.",
+    "activeingredient": "L-GLUTAMINE+L-TAURINE+THIAMINE+PYRIDOXINE+ZINC"
+  },
+  {
+    "id": 182,
+    "tradename": "ACTIMAR 50 CAPS. (N/A)",
+    "activeingredient": "L-GLUTAMINE+L-TAURINE+THIAMINE+PYRIDOXINE+ZINC"
+  },
+  {
+    "id": 183,
+    "tradename": "ACTIMAXVIT 15 CAPS.",
+    "activeingredient": "VITAMINS"
+  },
+  {
+    "id": 184,
+    "tradename": "ACTIMOXIFLOX 400 MG 10 F.C.TABS.",
+    "activeingredient": "MOXIFLOXACIN"
+  },
+  {
+    "id": 185,
+    "tradename": "ACTIMOXIFLOX 400 MG 5 F.C.TABS.",
+    "activeingredient": "MOXIFLOXACIN"
+  },
+  {
+    "id": 186,
+    "tradename": "ACTIMOXIFLOX 400 MG 7 F.C.TABS.",
+    "activeingredient": "MOXIFLOXACIN"
+  },
+  {
+    "id": 187,
+    "tradename": "ACTIVASE 50MG 29MIU (2VIALS)",
+    "activeingredient": "ALTEPLASE"
+  },
+  {
+    "id": 188,
+    "tradename": "ACTIVATE 200MG 40 SUGAR COATED TAB.",
+    "activeingredient": "SULBUTIAMINE"
+  },
+  {
+    "id": 189,
+    "tradename": "ACTIVE HAIR CREAM 100 GM",
+    "activeingredient": "GARLIC EXT+ALOE VERA OIL+PANTHENOL+LAVENDER OIL+VIT(E+C)+PEPPERMINT OIL+JOJOBA OIL+EMU OIL+OLIVE OIL"
+  },
+  {
+    "id": 190,
+    "tradename": "ACTIVE HAIR LOTION 250 ML",
+    "activeingredient": "GARLIC EXTRACT-OIL+ALOE VERA EXTRACT+THYME EXTRACT+PEPPERMINT OIL+GINKGO BILOBA+VITAMIN E+PANTHENOL"
+  },
+  {
+    "id": 191,
+    "tradename": "ACTIVE HAIR OIL 120 ML",
+    "activeingredient": "ALOE VERA OIL+JOJOBA OIL+THYME OIL+JASMINE OIL+OLIVE OIL+ROSEMARY OIL+LAVENDER OIL+VITAMIN E"
+  },
+  {
+    "id": 192,
+    "tradename": "ACTIVE HAIR OIL 60 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 193,
+    "tradename": "ACTIVE HAIR SHAMPOO 250 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 194,
+    "tradename": "ACTIVE MASSAGE CREAM 50 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 195,
+    "tradename": "ACTIVENT 8MG SR 20 CAP.",
+    "activeingredient": "SALBUTAMOL"
+  },
+  {
+    "id": 196,
+    "tradename": "ACTIVIN 20 TAB.",
+    "activeingredient": "GRAPE SEEDS EXTRACT"
+  },
+  {
+    "id": 197,
+    "tradename": "ACTIVITY MASSAGE CREAM 75 GM",
+    "activeingredient": "STEARIC ACID+BEES WAX+SODIUM HYDROXIDE+PEPPERMINT OIL+GLYCEROL+THYME EXTRACT+CLOVE EXTRACT+CINNAMON+"
+  },
+  {
+    "id": 198,
+    "tradename": "ACTNOW 10 CAPSULES",
+    "activeingredient": "GINSENG+ROYAL JELLY+WHEAT GERM OIL+BEE POLLEN+BEE PROPOLIS"
+  },
+  {
+    "id": 199,
+    "tradename": "ACTO-C MOUTH SPRAY 60 ML",
+    "activeingredient": "MOUTH WASH FORMULA"
+  },
+  {
+    "id": 200,
+    "tradename": "ACTODAY 5 MG 10 F.C. TAB.",
+    "activeingredient": "RISEDRONATE SODIUM"
+  },
+  {
+    "id": 201,
+    "tradename": "ACTOFLEX 3% TOPICAL GEL 25 GM",
+    "activeingredient": "FELBINAC"
+  },
+  {
+    "id": 202,
+    "tradename": "ACTOLIND GEL 30 ML",
+    "activeingredient": "0  1% POLYHEXANIDE (PHMB)+POLOXAMER+AUXILIARY SUBSTANCES"
+  },
+  {
+    "id": 203,
+    "tradename": "ACTOLIND GEL 50 ML",
+    "activeingredient": "0  1% POLYHEXANIDE (PHMB)+POLOXAMER+AUXILIARY SUBSTANCES"
+  },
+  {
+    "id": 204,
+    "tradename": "ACTONEL 35MG ONCE-A-WEEK 2 F.C. TAB. (N/A)",
+    "activeingredient": "RISEDRONATE SODIUM"
+  },
+  {
+    "id": 205,
+    "tradename": "ACTONEL 5MG 14 F.C. TAB.",
+    "activeingredient": "RISEDRONATE SODIUM"
+  },
+  {
+    "id": 206,
+    "tradename": "ACTONL CREAM MASSAGE 60 MG",
+    "activeingredient": "EUGENOL+EUCALYPTUS OIL+PEPPERMINT OIL+CAMPHOR"
+  },
+  {
+    "id": 207,
+    "tradename": "ACTOS 15MG 30 TAB.",
+    "activeingredient": "PIOGLITAZONE"
+  },
+  {
+    "id": 208,
+    "tradename": "ACTOS 30MG 30 TAB.",
+    "activeingredient": "PIOGLITAZONE"
+  },
+  {
+    "id": 209,
+    "tradename": "ACTOSEB WITH CALCIUM 28 F.C. TAB.(BIPHASIC)",
+    "activeingredient": "CALCIUM CARBONATE+RISEDRONATE SODIUM"
+  },
+  {
+    "id": 210,
+    "tradename": "ACTOWEEK 35 MG 1 F.C. TAB.",
+    "activeingredient": "RISEDRONATE SODIUM"
+  },
+  {
+    "id": 211,
+    "tradename": "ACTOZONE 30MG 10 TAB.",
+    "activeingredient": "PIOGLITAZONE"
+  },
+  {
+    "id": 212,
+    "tradename": "ACTOZONE 45MG 10 TAB.",
+    "activeingredient": "PIOGLITAZONE"
+  },
+  {
+    "id": 213,
+    "tradename": "ACTRAPID HM 100 I.U./ML  5*3ML PENFILLS",
+    "activeingredient": "INSULIN NEUTRAL HUMAN"
+  },
+  {
+    "id": 214,
+    "tradename": "ACTRAPID HM 100 I.U./ML 10 ML VIAL",
+    "activeingredient": "INSULIN NEUTRAL HUMAN"
+  },
+  {
+    "id": 215,
+    "tradename": "ACTRIAZOLE 200 MG 7 CAPS.",
+    "activeingredient": "FLUCONAZOLE"
+  },
+  {
+    "id": 216,
+    "tradename": "ACUCORT CREAM 60 GM",
+    "activeingredient": "GLUCOSAMINE SULFATE+CHONDROITIN SULFATE+LIPOSOME (VITAMIN E)+CORN GERM OIL"
+  },
+  {
+    "id": 217,
+    "tradename": "ACULAR LS 0.4% EYE DROPS 5 ML",
+    "activeingredient": "KETOROLAC TROMETHAMINE"
+  },
+  {
+    "id": 218,
+    "tradename": "ACUPAN 20MG/ML 3 AMPS.(N/A)",
+    "activeingredient": "NEFOPAM"
+  },
+  {
+    "id": 219,
+    "tradename": "ACUPAN 30MG 20 TABS.(N/A)",
+    "activeingredient": "NEFOPAM"
+  },
+  {
+    "id": 220,
+    "tradename": "ACYCLOSTAD 5% CREAM 10 GM",
+    "activeingredient": "ACYCLOVIR"
+  },
+  {
+    "id": 221,
+    "tradename": "ACYCLOVIR (EL-NILE) 5% TOPICAL CREAM 10 GM",
+    "activeingredient": "ACYCLOVIR"
+  },
+  {
+    "id": 222,
+    "tradename": "ACYCLOVIR 200MG 20 TAB.",
+    "activeingredient": "ACYCLOVIR"
+  },
+  {
+    "id": 223,
+    "tradename": "ACYCLOVIR 3% EYE OINT. 5 GM",
+    "activeingredient": "ACYCLOVIR"
+  },
+  {
+    "id": 224,
+    "tradename": "ACYCLOVIR 400 STADA 35 TABS.",
+    "activeingredient": "ACYCLOVIR"
+  },
+  {
+    "id": 225,
+    "tradename": "ACYCLOVIR 800 STADA 35 TABS.",
+    "activeingredient": "ACYCLOVIR"
+  },
+  {
+    "id": 226,
+    "tradename": "ACYCLOVIR-MISR 5% TOPICAL CREAM 10 GM",
+    "activeingredient": "ACYCLOVIR"
+  },
+  {
+    "id": 227,
+    "tradename": "AD-MUC ORAL OINT. 10 GM",
+    "activeingredient": "CHAMOMILE+MYRRH TINCTURE"
+  },
+  {
+    "id": 228,
+    "tradename": "ADAGEL 0.1% TOPICAL GEL. 30 GM",
+    "activeingredient": "ADAPALENE"
+  },
+  {
+    "id": 229,
+    "tradename": "ADALAT LA 30MG 30 F.C. TABS.",
+    "activeingredient": "NIFEDIPINE"
+  },
+  {
+    "id": 230,
+    "tradename": "ADAMAT 250MG 30CAPS.",
+    "activeingredient": "METHYLDOPA"
+  },
+  {
+    "id": 231,
+    "tradename": "ADAMINE 100MG 20 CAPS.",
+    "activeingredient": "AMANTADINE"
+  },
+  {
+    "id": 232,
+    "tradename": "ADANCOR 10MG 30 BREAKABLE TABS.",
+    "activeingredient": "NICORANDIL"
+  },
+  {
+    "id": 233,
+    "tradename": "ADANCOR 20MG 30 BREAKABLE TABS.",
+    "activeingredient": "NICORANDIL"
+  },
+  {
+    "id": 234,
+    "tradename": "ADANOID 0.1% TOP. GEL 30 GM",
+    "activeingredient": "ADAPALENE"
+  },
+  {
+    "id": 235,
+    "tradename": "ADANT 25MG/2.5ML INTRA-ARTICULAR PREFILLED SYRINGE",
+    "activeingredient": "SODIUM HYALURONATE"
+  },
+  {
+    "id": 236,
+    "tradename": "ADAPALENE 0.1% GEL 30 GM",
+    "activeingredient": "ADAPALENE"
+  },
+  {
+    "id": 237,
+    "tradename": "ADAPTAN 250MG/5ML ORAL SOLUTION 100 ML",
+    "activeingredient": "GABAPENTIN"
+  },
+  {
+    "id": 238,
+    "tradename": "ADAPTAN 300 MG 10 SOFT GELATIN CAP.",
+    "activeingredient": "GABAPENTIN"
+  },
+  {
+    "id": 239,
+    "tradename": "ADAPTAN 400 MG 10 SOFT GELATIN CAPS.",
+    "activeingredient": "GABAPENTIN"
+  },
+  {
+    "id": 240,
+    "tradename": "ADCETRIS 50 MG PD. CONC. FOR I.V. INF.",
+    "activeingredient": "BRENTUXIMAB VEDOTIN"
+  },
+  {
+    "id": 241,
+    "tradename": "ADCOCARE CREAM 20 GM",
+    "activeingredient": "UREA+LIQUID PARAFFIN+GLYCERYL MONOSTEARATE+PROPYLENE GLYCOL"
+  },
+  {
+    "id": 242,
+    "tradename": "ADCOCARE CREAM 40 GM",
+    "activeingredient": "UREA+LIQUID PARAFFIN+GLYCERYL MONOSTEARATE+PROPYLENE GLYCOL"
+  },
+  {
+    "id": 243,
+    "tradename": "ADCOCETINE 1% OINT. 15 GM",
+    "activeingredient": "CHLORAMPHENICOL"
+  },
+  {
+    "id": 244,
+    "tradename": "ADCOCLINDACE 10MG/ML TOP. SOL.",
+    "activeingredient": "CLINDAMYCIN"
+  },
+  {
+    "id": 245,
+    "tradename": "ADCOCLINDACE 150 MG 16 CAPS.",
+    "activeingredient": "CLINDAMYCIN"
+  },
+  {
+    "id": 246,
+    "tradename": "ADCOCLINDACE 300 MG 16 CAPS.",
+    "activeingredient": "CLINDAMYCIN"
+  },
+  {
+    "id": 247,
+    "tradename": "ADCOCYCLINE 3% OINT. 15 GM",
+    "activeingredient": "TETRACYCLINE"
+  },
+  {
+    "id": 248,
+    "tradename": "ADCOKION 10MG 20 CHEW.TAB.",
+    "activeingredient": "VITAMIN K1"
+  },
+  {
+    "id": 249,
+    "tradename": "ADCOKION 10MG/ML 5 AMP. FOR I.M. INJ.",
+    "activeingredient": "VITAMIN K1"
+  },
+  {
+    "id": 250,
+    "tradename": "ADCOMEX STERILE EYE DROPS 10 ML",
+    "activeingredient": "NEOMYCIN+POLYMYXIN"
+  },
+  {
+    "id": 251,
+    "tradename": "ADCOPANTIN 5% TOPICAL CREAM 20 GM",
+    "activeingredient": "PANTHENOL"
+  },
+  {
+    "id": 252,
+    "tradename": "ADCOPANTIN 5% TOPICAL CREAM 40 GM",
+    "activeingredient": "PANTHENOL"
+  },
+  {
+    "id": 253,
+    "tradename": "ADCOSTIGMINE 0.5MG/ML 5 AMP.",
+    "activeingredient": "DISTIGMINE BROMIDE"
+  },
+  {
+    "id": 254,
+    "tradename": "ADCOSTIGMINE 5 MG 20 TAB.",
+    "activeingredient": "DISTIGMINE BROMIDE"
+  },
+  {
+    "id": 255,
+    "tradename": "ADCOTREXIN 20 CAPS.",
+    "activeingredient": "TILBROQUINOL+TILIQUINOL+TILIQUINOL LAURYL SULPHATE"
+  },
+  {
+    "id": 256,
+    "tradename": "ADCOZOLE 2% TOPICAL CR. 15 GM",
+    "activeingredient": "MICONAZOLE"
+  },
+  {
+    "id": 257,
+    "tradename": "ADDAMEL N 20 I.V AMP 10 ML",
+    "activeingredient": "CHROMIC CL+COPPER CL+FERRIC CL+POTASSIUM I+SODIUM FLUORIDE+SODIUM MOLYBDATE+SODIUM SELENITE+ZINC CL"
+  },
+  {
+    "id": 258,
+    "tradename": "ADDO-G 30 HARD GELATIN CAPSULES",
+    "activeingredient": "MULTIVITAMINS 13 VITAMINS AND 11 MINERALS WITH COQ10 AND LACTOBACILLUS ACIDOPHILUS"
+  },
+  {
+    "id": 259,
+    "tradename": "ADENO B6 20 F.C. TAB.",
+    "activeingredient": "ADENOSINE+VITAMIN B6"
+  },
+  {
+    "id": 260,
+    "tradename": "ADENO SED B FORTE 3 AMP.",
+    "activeingredient": "ADENOSINE TRIPHOSPHATE+COCARBOXYLASE+NICOTINAMIDE+VITAMIN B12"
+  },
+  {
+    "id": 261,
+    "tradename": "ADENOSIN FORTE 3 LYOPHILIZED I.M. AMP.",
+    "activeingredient": "ADENOSINE TRIPHOSPHATE+COCARBOXYLASE+NICOTINAMIDE+VITAMIN B12"
+  },
+  {
+    "id": 262,
+    "tradename": "ADENOX FORTE 20 F.C TAB.",
+    "activeingredient": "ATP+VITAMIN B6"
+  },
+  {
+    "id": 263,
+    "tradename": "ADEZIA TOPICAL CREAM 60 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 264,
+    "tradename": "ADOL 500MG 24 CAPLETS",
+    "activeingredient": "PARACETAMOL(ACETAMINOPHEN)"
+  },
+  {
+    "id": 265,
+    "tradename": "ADOL COLD 24 CAPLETS (N/A)",
+    "activeingredient": "DEXTROMETHORPHAN+PARACETAMOL(ACETAMINOPHEN)+PSEUDOEPHEDRINE"
+  },
+  {
+    "id": 266,
+    "tradename": "ADOL EXTRA 24 CAPLETS",
+    "activeingredient": "CAFFEINE+PARACETAMOL(ACETAMINOPHEN)"
+  },
+  {
+    "id": 267,
+    "tradename": "ADOL SINUS 24 CAPLETS",
+    "activeingredient": "PARACETAMOL(ACETAMINOPHEN)+PSEUDOEPHEDRINE"
+  },
+  {
+    "id": 268,
+    "tradename": "ADOLOR 10 MG 20 F.C.TABS.",
+    "activeingredient": "KETOROLAC TROMETHAMINE"
+  },
+  {
+    "id": 269,
+    "tradename": "ADOLOR 15 MG 3 AMPS.",
+    "activeingredient": "KETOROLAC TROMETHAMINE"
+  },
+  {
+    "id": 270,
+    "tradename": "ADOLOR 30 MG 3 AMPS.",
+    "activeingredient": "KETOROLAC TROMETHAMINE"
+  },
+  {
+    "id": 271,
+    "tradename": "ADORE MULTIPURPOSE CONTACT LENSES SOLUTION 100 ML",
+    "activeingredient": "POLYHEXAMETHYLENE BIGUANIDE (PHMB)+SODIUM EDETATE+ISOTONIC SOLUTION"
+  },
+  {
+    "id": 272,
+    "tradename": "ADPORT 0.5 MG 100 CAPS.",
+    "activeingredient": "TACROLIMUS"
+  },
+  {
+    "id": 273,
+    "tradename": "ADPORT 1 MG 100 CAPS.",
+    "activeingredient": "TACROLIMUS"
+  },
+  {
+    "id": 274,
+    "tradename": "ADPORT 5 MG 100 CAPS.",
+    "activeingredient": "TACROLIMUS"
+  },
+  {
+    "id": 275,
+    "tradename": "ADRENALINE-CID 1 MG/1ML 100 I.M./S.C. AMP.",
+    "activeingredient": "ADRENALINE"
+  },
+  {
+    "id": 276,
+    "tradename": "ADRENAMAX 1 MG/1ML 10 AMPS.",
+    "activeingredient": "ADRENALINE"
+  },
+  {
+    "id": 277,
+    "tradename": "ADRENOCORTINE 1MG/ML I.M. AMP.",
+    "activeingredient": "TETRACOSACTIDE"
+  },
+  {
+    "id": 278,
+    "tradename": "ADRIBLASTINA R.D 10MG VIAL.",
+    "activeingredient": "DOXORUBICIN"
+  },
+  {
+    "id": 279,
+    "tradename": "ADRIBLASTINA R.D 50MG VIAL",
+    "activeingredient": "DOXORUBICIN"
+  },
+  {
+    "id": 280,
+    "tradename": "ADRICIN 10 MG VIAL FOR I.V. INJ.",
+    "activeingredient": "DOXORUBICIN"
+  },
+  {
+    "id": 281,
+    "tradename": "ADRICIN 50 MG VIAL FOR I.V. INJ.",
+    "activeingredient": "DOXORUBICIN"
+  },
+  {
+    "id": 282,
+    "tradename": "ADROBEGA 80MG 10 F.C. TAB.",
+    "activeingredient": "ATORVASTATIN"
+  },
+  {
+    "id": 283,
+    "tradename": "ADROIT CREAM 60 GM",
+    "activeingredient": "CAMPHOR+MENTHOL+EUCALYPTUS+PEPPERMENT OIL+STEARIC ACID+METHYL PARABEN"
+  },
+  {
+    "id": 284,
+    "tradename": "ADVAGRAF 0.5 MG 100 PROLONGED R. CAPS.",
+    "activeingredient": "TACROLIMUS"
+  },
+  {
+    "id": 285,
+    "tradename": "ADVAGRAF 0.5 MG 50 PROLONGED R. CAPS.",
+    "activeingredient": "TACROLIMUS"
+  },
+  {
+    "id": 286,
+    "tradename": "ADVAGRAF 1 MG 100 PROLONGED R. CAPS.(N/A YET)",
+    "activeingredient": "TACROLIMUS"
+  },
+  {
+    "id": 287,
+    "tradename": "ADVAGRAF 1 MG 50 PROLONGED R. CAPS.",
+    "activeingredient": "TACROLIMUS"
+  },
+  {
+    "id": 288,
+    "tradename": "ADVAGRAF 3 MG 100 PROLONGED R. CAPS. (N/A YET)",
+    "activeingredient": "TACROLIMUS"
+  },
+  {
+    "id": 289,
+    "tradename": "ADVAGRAF 3 MG 50 PROLONGED R. CAPS. (N/A YET)",
+    "activeingredient": "TACROLIMUS"
+  },
+  {
+    "id": 290,
+    "tradename": "ADVAGRAF 5 MG 100 PROLONGED R. CAPS. (N/A YET)",
+    "activeingredient": "TACROLIMUS"
+  },
+  {
+    "id": 291,
+    "tradename": "ADVAGRAF 5 MG 50 PROLONGED R. CAPS. (N/A YET)",
+    "activeingredient": "TACROLIMUS"
+  },
+  {
+    "id": 292,
+    "tradename": "ADVAHAIR HAIR LOTION 120 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 293,
+    "tradename": "ADVANCE SOAP 100 GM",
+    "activeingredient": "SULPHUR+SALICYLIC ACID+LEMON OIL+CITRIC ACID+BORIC ACID+TITANIUM DIOXIDE+THYME+CLOVE+MENTHOL+LANOLIN+GLYCERIN"
+  },
+  {
+    "id": 294,
+    "tradename": "ADVANCED OMEGA + DHA 60 GUMMIES",
+    "activeingredient": "OMEGA OIL+OMEGA 3+OMEGA 6+OMEGA 9+DHA+VITAMIN C"
+  },
+  {
+    "id": 295,
+    "tradename": "ADVANCED PROBIOTIC 60 CAPS.",
+    "activeingredient": "PROBIOTIC BACTERIA"
+  },
+  {
+    "id": 296,
+    "tradename": "ADVANCED VITAMIN C 90 GUMMIES",
+    "activeingredient": "VITAMIN C"
+  },
+  {
+    "id": 297,
+    "tradename": "ADVANCRIB 400 MG 5 F.C. TABS.",
+    "activeingredient": "MOXIFLOXACIN"
+  },
+  {
+    "id": 298,
+    "tradename": "ADVANOPAIN 200 MCG 4 SUBLINGUAL TABS.",
+    "activeingredient": "FENTANYL"
+  },
+  {
+    "id": 299,
+    "tradename": "ADVIC CREAM 50 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 300,
+    "tradename": "ADVIPRO COUGH & COLD SYRUP 120ML",
+    "activeingredient": "CHLORPHENIRAMINE+DEXTROMETHORPHAN+PARACETAMOL(ACETAMINOPHEN)+PSEUDOEPHEDRINE"
+  },
+  {
+    "id": 301,
+    "tradename": "ADVO COLLAGEN 7 SACHETS",
+    "activeingredient": "COLLAGEN+VIT C+ZINC"
+  },
+  {
+    "id": 302,
+    "tradename": "ADVOCHOL 10MG 14 F.C. TABS.",
+    "activeingredient": "ROSUVASTATIN"
+  },
+  {
+    "id": 303,
+    "tradename": "ADVOCHOL 10MG 28 F.C. TABS.",
+    "activeingredient": "ROSUVASTATIN"
+  },
+  {
+    "id": 304,
+    "tradename": "ADVOCHOL 10MG 7 F.C. TABS.",
+    "activeingredient": "ROSUVASTATIN"
+  },
+  {
+    "id": 305,
+    "tradename": "ADVOCTAM 4.5 GM PD. FOR IV INF.",
+    "activeingredient": "PIPERACILLIN+TAZOBACTAM"
+  },
+  {
+    "id": 306,
+    "tradename": "ADVOHELIX SYRUP 120 ML",
+    "activeingredient": "IVY LEAVES"
+  },
+  {
+    "id": 307,
+    "tradename": "ADVOMIKACIN 500MG/2ML VIAL",
+    "activeingredient": "AMIKACIN"
+  },
+  {
+    "id": 308,
+    "tradename": "ADVOSERC 24 MG 10 TAB.",
+    "activeingredient": "BETAHISTINE"
+  },
+  {
+    "id": 309,
+    "tradename": "ADVOTINPO 50 MG 10 CAPS.",
+    "activeingredient": "FLUCONAZOLE"
+  },
+  {
+    "id": 310,
+    "tradename": "ADWIFLAM 12.5MG INFANTS 5 SUPP.",
+    "activeingredient": "DICLOFENAC POTASSIUM"
+  },
+  {
+    "id": 311,
+    "tradename": "ADWIFLAM 25 MG 20 F.C.TAB",
+    "activeingredient": "DICLOFENAC POTASSIUM"
+  },
+  {
+    "id": 312,
+    "tradename": "ADWIFLAM 25MG CHILDREN 5 SUPP.",
+    "activeingredient": "DICLOFENAC POTASSIUM"
+  },
+  {
+    "id": 313,
+    "tradename": "ADWIFLAM 50 MG 10 SACHETS",
+    "activeingredient": "DICLOFENAC POTASSIUM"
+  },
+  {
+    "id": 314,
+    "tradename": "ADWIFLAM 50MG E.R. 30 CAPS.",
+    "activeingredient": "DICLOFENAC POTASSIUM"
+  },
+  {
+    "id": 315,
+    "tradename": "ADWIFLAM 75MG 5 SUPP.",
+    "activeingredient": "DICLOFENAC POTASSIUM"
+  },
+  {
+    "id": 316,
+    "tradename": "ADWIFLAM 75MG/3ML 6  AMP.",
+    "activeingredient": "DICLOFENAC POTASSIUM"
+  },
+  {
+    "id": 317,
+    "tradename": "ADWIFLAM EMULGEL 30 GM",
+    "activeingredient": "DICLOFENAC DIETHYLAMINE+METHYL SALICYLATE+MENTHOL"
+  },
+  {
+    "id": 318,
+    "tradename": "ADWIFLAM EMULGEL 50 GM",
+    "activeingredient": "DICLOFENAC DIETHYLAMINE+METHYL SALICYLATE+MENTHOL"
+  },
+  {
+    "id": 319,
+    "tradename": "ADWIFLOXACEN 400 MG 7 F.C. TABS.",
+    "activeingredient": "MOXIFLOXACIN"
+  },
+  {
+    "id": 320,
+    "tradename": "ADWIMOVE TOPICAL GEL 20 GM",
+    "activeingredient": "MUCOPOLYSACHARIDE POLYSULFURIC ACID+SALICYLIC ACID"
+  },
+  {
+    "id": 321,
+    "tradename": "ADWIMOVE TOPICAL GEL 50 GM",
+    "activeingredient": "MUCOPOLYSACHARIDE POLYSULFURIC ACID+SALICYLIC ACID"
+  },
+  {
+    "id": 322,
+    "tradename": "ADWINERVE 500 MCG 20 CAPS.",
+    "activeingredient": "MECOBALAMIN"
+  },
+  {
+    "id": 323,
+    "tradename": "ADWINERVE PLUS 20 CAPS.",
+    "activeingredient": "VITAMIN B1+VITAMIN B6+VITAMIN B12"
+  },
+  {
+    "id": 324,
+    "tradename": "ADWIPRAZOLE 10MG 30 F.C. TAB.",
+    "activeingredient": "ARIPIPRAZOLE"
+  },
+  {
+    "id": 325,
+    "tradename": "ADWIPRAZOLE 30MG 10 F.C.TAB.",
+    "activeingredient": "ARIPIPRAZOLE"
+  },
+  {
+    "id": 326,
+    "tradename": "ADWIPRIL 2MG 10 TAB.",
+    "activeingredient": "PERINDOPRIL"
+  },
+  {
+    "id": 327,
+    "tradename": "ADWIPRIL 4 MG 30 TAB.",
+    "activeingredient": "PERINDOPRIL"
+  },
+  {
+    "id": 328,
+    "tradename": "ADWISEPT 10% VAG. DOUCHE 120 ML",
+    "activeingredient": "POVIDONE- IODINE"
+  },
+  {
+    "id": 329,
+    "tradename": "ADWISOMN 25 MG 20 CAP.",
+    "activeingredient": "DOXYLAMINE SUCCINATE"
+  },
+  {
+    "id": 330,
+    "tradename": "ADWISTADINE 5 MG 30 SCORED F.C.TABS.",
+    "activeingredient": "IVABRADINE"
+  },
+  {
+    "id": 331,
+    "tradename": "ADWISTADINE 7.5 MG 30 F.C.TABS.",
+    "activeingredient": "IVABRADINE"
+  },
+  {
+    "id": 332,
+    "tradename": "ADWITINE 30 MG 10 CAPS.",
+    "activeingredient": "DULOXETINE"
+  },
+  {
+    "id": 333,
+    "tradename": "ADWITINE 30 MG 30 CAPS.",
+    "activeingredient": "DULOXETINE"
+  },
+  {
+    "id": 334,
+    "tradename": "ADWITINE 60 MG 10 CAPS.",
+    "activeingredient": "DULOXETINE"
+  },
+  {
+    "id": 335,
+    "tradename": "ADWITINE 60 MG 30 CAPS.",
+    "activeingredient": "DULOXETINE"
+  },
+  {
+    "id": 336,
+    "tradename": "ADWIVALSAR 160MG 30 SCORED F.C. TABS.",
+    "activeingredient": "VALSARTAN"
+  },
+  {
+    "id": 337,
+    "tradename": "ADWIVALSAR-CO 160/12.5MG 10 SCORED F.C.TAB.",
+    "activeingredient": "HYDROCHLOROTHIAZIDE+VALSARTAN"
+  },
+  {
+    "id": 338,
+    "tradename": "ADWIVALSAR-CO 160/25MG 10 SCORED F.C. TAB.",
+    "activeingredient": "HYDROCHLOROTHIAZIDE+VALSARTAN"
+  },
+  {
+    "id": 339,
+    "tradename": "AERIUS 5 MG 20 F.C.TABS.",
+    "activeingredient": "DESLORATADINE"
+  },
+  {
+    "id": 340,
+    "tradename": "AEROLIN 100MCG/DOSE INHALER",
+    "activeingredient": "SALBUTAMOL"
+  },
+  {
+    "id": 341,
+    "tradename": "AEROTROPA NEBULIZER SOLN. 10 AMP. 2.5ML",
+    "activeingredient": "IPRATROPIUM BROMIDE+SALBUTAMOL"
+  },
+  {
+    "id": 342,
+    "tradename": "AEROTROPA NEBULIZER SOLN. 20 AMP. 2.5ML",
+    "activeingredient": "IPRATROPIUM BROMIDE+SALBUTAMOL"
+  },
+  {
+    "id": 343,
+    "tradename": "AERRANE 100% LIQUID FOR INHALATION (HOSPITAL PRICE)",
+    "activeingredient": "ISOFLURANE"
+  },
+  {
+    "id": 344,
+    "tradename": "AETHOXYSKLEROL 2% 5 AMP. (ILLEGAL IMPORT)",
+    "activeingredient": "POLIDOCANOL"
+  },
+  {
+    "id": 345,
+    "tradename": "AETHOXYSKLEROL 3% 5 AMP. (ILLEGAL IMPORT)",
+    "activeingredient": "POLIDOCANOL"
+  },
+  {
+    "id": 346,
+    "tradename": "AFINITOR 10 MG 30 TABS.",
+    "activeingredient": "EVEROLIMUS"
+  },
+  {
+    "id": 347,
+    "tradename": "AFINITOR 5 MG 30 TABS.",
+    "activeingredient": "EVEROLIMUS"
+  },
+  {
+    "id": 348,
+    "tradename": "AFRIN 0.05% NASAL SPRAY 20 ML(N/A)",
+    "activeingredient": "OXYMETAZOLINE"
+  },
+  {
+    "id": 349,
+    "tradename": "AFRIN ADULT 0.5MG/ML NASAL DROPS 10 ML(N/A)",
+    "activeingredient": "OXYMETAZOLINE"
+  },
+  {
+    "id": 350,
+    "tradename": "AFRIN PEDIATRIC 0.25MG/ML NASAL DROPS 10 ML(N/A)",
+    "activeingredient": "OXYMETAZOLINE"
+  },
+  {
+    "id": 351,
+    "tradename": "AFTAMED ORAL GEL 15ML",
+    "activeingredient": "HYALURONAN SODIUM SALT"
+  },
+  {
+    "id": 352,
+    "tradename": "AFTAMED ORAL GEL JUNIOR 15ML",
+    "activeingredient": "HYALURONAN SODIUM SALT"
+  },
+  {
+    "id": 353,
+    "tradename": "AFTAMED ORAL MOUTH WASH 150ML",
+    "activeingredient": "HYALURONAN SODIUM SALT"
+  },
+  {
+    "id": 354,
+    "tradename": "AFTAMED ORAL SPRAY 20ML",
+    "activeingredient": "HYALURONAN SODIUM SALT"
+  },
+  {
+    "id": 355,
+    "tradename": "AFTAMED SHIELD ORAL GEL 10ML",
+    "activeingredient": "HYALURONAN SODIUM SALT"
+  },
+  {
+    "id": 356,
+    "tradename": "AFTER MEALS 20 CAPS.",
+    "activeingredient": "CHAMOMILE+GINGER+ANISE+BROMELAIN+FENNEL+PEPPERMINT+PAPAIN"
+  },
+  {
+    "id": 357,
+    "tradename": "AFTER MEALS 30 CAPS.",
+    "activeingredient": "CHAMOMILE+GINGER+ANISE+BROMELAIN+FENNEL+PEPPERMINT+PAPAIN"
+  },
+  {
+    "id": 358,
+    "tradename": "AGAR ORAL DROP",
+    "activeingredient": "AGAR AGAR EXTRACT 1165 MG"
+  },
+  {
+    "id": 359,
+    "tradename": "AGARVAL 10SACHETS",
+    "activeingredient": "AGAR-AGAR POWDER"
+  },
+  {
+    "id": 360,
+    "tradename": "AGE-LESS CREAM 50 GM",
+    "activeingredient": "ACETYL HEXAPEPTIDE-3+PSEUDOALTEROMONAS FERMENT EXTRACT+ASCORBYL PALMITATE+VITAMIN E+PANTHENOL+GLYCER"
+  },
+  {
+    "id": 361,
+    "tradename": "AGEAL ANTI-AGING RICH CREAM 50 ML",
+    "activeingredient": "HYALURONIC ACID+COLLAGEN+CAFFEINE+VITAMIN E"
+  },
+  {
+    "id": 362,
+    "tradename": "AGEAL EYE CONTOUR CREAM 15 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 363,
+    "tradename": "AGERA ACNE CREAM 50 GM",
+    "activeingredient": "NICOTIAMIDE+TEE TREE OIL+ALOE VERA EXTRACT+MENTHOL+AHA+BHA+UV FILTER"
+  },
+  {
+    "id": 364,
+    "tradename": "AGERA ACNE FACIAL CLEANSER 150 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 365,
+    "tradename": "AGERA WHITENING CREAM 50 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 366,
+    "tradename": "AGERA WHITENING FACIAL CLEANSER 150 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 367,
+    "tradename": "AGGRASTAT 12.5MG/50ML I.V. INFUSION",
+    "activeingredient": "TIROFIBAN"
+  },
+  {
+    "id": 368,
+    "tradename": "AGGREX 250MG 20 TAB. (N/A)",
+    "activeingredient": "ACETYLSALICYLIC ACID"
+  },
+  {
+    "id": 369,
+    "tradename": "AGGREX 75MG 60 TABS.",
+    "activeingredient": "ACETYLSALICYLIC ACID"
+  },
+  {
+    "id": 370,
+    "tradename": "AGIOLAX 12 GRANULES IN SACHETS",
+    "activeingredient": "ISPAGHULA HUSK+PLANTAGO SEED+SENNA"
+  },
+  {
+    "id": 371,
+    "tradename": "AGNUCASTON 20 MG 30 F.C.TABS.",
+    "activeingredient": "DRY EXTRACT OF THE FRUIT OF THE CHASTE TREE"
+  },
+  {
+    "id": 372,
+    "tradename": "AGOVALD 25 MG 21 F.C.TABS.",
+    "activeingredient": "AGOMELATINE"
+  },
+  {
+    "id": 373,
+    "tradename": "AGRELOCIT 50 MG 20 TAB.",
+    "activeingredient": "SERTRALINE"
+  },
+  {
+    "id": 374,
+    "tradename": "AGRIPPAL S1 VACCINE",
+    "activeingredient": "VACCINE INFLUENZA"
+  },
+  {
+    "id": 375,
+    "tradename": "AIG ALFUZOSIN XR 10MG 10 EXTENDED RELEASE F.C.TAB",
+    "activeingredient": "ALFUZOSIN"
+  },
+  {
+    "id": 376,
+    "tradename": "AIG ESOMEPRAZOLE 40 MG 14 CAPS.",
+    "activeingredient": "ESOMEPRAZOLE"
+  },
+  {
+    "id": 377,
+    "tradename": "AIG ESOMEPRAZOLE 40 MG 21 CAPS.",
+    "activeingredient": "ESOMEPRAZOLE"
+  },
+  {
+    "id": 378,
+    "tradename": "AIG MINOXIDIL 2% SCALP LOTION 100 ML",
+    "activeingredient": "MINOXIDIL"
+  },
+  {
+    "id": 379,
+    "tradename": "AIG MINOXIDIL 5% SCALP LOTION 100 ML",
+    "activeingredient": "MINOXIDIL"
+  },
+  {
+    "id": 380,
+    "tradename": "AIMOVIG 70MG/ML S.C. PREFILLED PEN 1 ML",
+    "activeingredient": "ERENUMAB"
+  },
+  {
+    "id": 381,
+    "tradename": "AIRONYL 1.5MG/5ML SYRUP 120ML",
+    "activeingredient": "TERBUTALINE"
+  },
+  {
+    "id": 382,
+    "tradename": "AIRONYL 2.5 MG 20 TABS.",
+    "activeingredient": "TERBUTALINE"
+  },
+  {
+    "id": 383,
+    "tradename": "AIX VAG.DOUCHE 250 ML",
+    "activeingredient": "LACTIC ACID - IRGASAN - TEA TREE OIL - GRAPEFRUIT SEED EXT. - CHAMOMILE EXT.  - COCAMIDOPROPYL BETAINE - THYMOL -MENTOL GLYCERIN"
+  },
+  {
+    "id": 384,
+    "tradename": "AJIROFIL ANTI-DANDRUFF SHAMPOO 125 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 385,
+    "tradename": "AKANZA LIQUID SPRAY 15ML",
+    "activeingredient": "L-ARGININE+MENTHOL CRYSTALS+TEA TREE OIL+ALOE VERA EXTRACT+VITAMIN E+VITAMIN C"
+  },
+  {
+    "id": 386,
+    "tradename": "AKEMA HAIR OIL 120 ML",
+    "activeingredient": "LAVENDER OIL+BASEL OIL+JOJOBA OIL+OLIVE OIL+GERANIUM OIL+THYME OIL+ALMOND OIL"
+  },
+  {
+    "id": 387,
+    "tradename": "AKENPARK 2 MG 20 TABS.",
+    "activeingredient": "BIPERIDENE"
+  },
+  {
+    "id": 388,
+    "tradename": "AKINETON 2 MG 20 TABS.(CANCELLED)",
+    "activeingredient": "BIPERIDENE"
+  },
+  {
+    "id": 389,
+    "tradename": "AKINETON 5 MG/ML 5 AMPS.(CANCELLED)",
+    "activeingredient": "BIPERIDENE"
+  },
+  {
+    "id": 390,
+    "tradename": "AKITA LIGHT FACIAL CLEANSER 200 ML",
+    "activeingredient": "LIQUORICE+KOJIC ACID+ALPHA ARBUTIN+VITAMIN (C+B)+TEA TREE OIL+CHAMOMILE+ALLANTOIN+GLYCOLIC ACID+SALI"
+  },
+  {
+    "id": 391,
+    "tradename": "AKITA MASSAGE GEL 50 GM",
+    "activeingredient": "COLLAGEN"
+  },
+  {
+    "id": 392,
+    "tradename": "AKIVA DC GEL",
+    "activeingredient": "HYDROLYZED COLLAGEN+CAFFEINE+VITAMIN K+HYALURONIC ACID+VITAMIN C+KOJEC ACID+PANTHENOL+ALOEVERA EXTRACT"
+  },
+  {
+    "id": 393,
+    "tradename": "AKNAPALEN 1% TOPICAL GEL 25 GM",
+    "activeingredient": "ADAPALENE"
+  },
+  {
+    "id": 394,
+    "tradename": "AKNEMYCIN 2% OINT. 15 GM",
+    "activeingredient": "ERYTHROMYCIN"
+  },
+  {
+    "id": 395,
+    "tradename": "AKNEMYCIN 2% SOLUTION 25 ML",
+    "activeingredient": "ERYTHROMYCIN"
+  },
+  {
+    "id": 396,
+    "tradename": "AKNEROXID-5 5% GEL 20 GM",
+    "activeingredient": "BENZOYL PEROXIDE"
+  },
+  {
+    "id": 397,
+    "tradename": "AKNO SOAP 80 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 398,
+    "tradename": "AKONESTA HAIR CREAM 120 ML",
+    "activeingredient": "KERATIN+BIOTIN+CAFFEINE+OILS(ARGAN+PUMPKIN+ERUCA+NIGELLA SATIVA+MUSTARD)+GINSENG+SAW PALMETTO+VIT.E"
+  },
+  {
+    "id": 399,
+    "tradename": "AKONESTA HAIR TONIC SPRAY 220 ML",
+    "activeingredient": "KERATIN+BIOTIN+CAFFEINE+OILS(ARGAN+PUMPKIN+ERUCA+NIGELLA SATIVA+MUSTARD)+GINSENG+SAW PALMETTO+VIT.E"
+  },
+  {
+    "id": 400,
+    "tradename": "AKREN FACIAL CLEANSER 250 ML",
+    "activeingredient": "TEA TREE OIL+VITAMIN E+GLYCERIN+VITAMIN C+THYME+PANTHENOL+LIQUORICE+SALICYLIC"
+  },
+  {
+    "id": 401,
+    "tradename": "AKREN SOAP 100 GM",
+    "activeingredient": "BLACK SEED OIL+OLIVE OIL+CHAMOMILE+ALOE VERA+ERUCA SATIVA+SALICYLIC+SULFUR+VITAMIN C+TEA TREE OIL"
+  },
+  {
+    "id": 402,
+    "tradename": "AKREN TOPICAL CREAM 60 GM",
+    "activeingredient": "SALICYLIC ACID+TEA TREE OIL+LIQUORICE+VITAMIN(E+C+A)+PANTHENOL+THYME+ROSEMARY+GLYCERIN+ALOE VERA+PEPPERMINT OIL"
+  },
+  {
+    "id": 403,
+    "tradename": "AKTAR BABY CREAM 60 GM",
+    "activeingredient": "ZINC OXIDE+CASTOR OIL+ALLANTOIN+BHT+BEES WAX+OCTYL STEARATE+OLIVE OIL+CHAMOMILE+ALOE VERA+JOJOBA OIL"
+  },
+  {
+    "id": 404,
+    "tradename": "AKTOCAL SUSPENSION 120 ML",
+    "activeingredient": "CALCIUM+MAGNESIUM+ZINC+PHOSPHORUS+VITAMIN D3"
+  },
+  {
+    "id": 405,
+    "tradename": "AKYNZEO 300/0.5 MG 1 CAPS.",
+    "activeingredient": "NETUPITANT+PALONOSETRON"
+  },
+  {
+    "id": 406,
+    "tradename": "ALAMBUPHINE 20MG/2ML 5 AMP.",
+    "activeingredient": "NALBUPHINE"
+  },
+  {
+    "id": 407,
+    "tradename": "ALAN ANTI-DANDRUFF HAIR SHAMPOO 120 ML",
+    "activeingredient": "PIROCTONE OLAMINE+DIMETHICONE COPOLYOL+PANTHENOL+COCAMIDOPROPYL BETAINE+CITRIC ACID"
+  },
+  {
+    "id": 408,
+    "tradename": "ALAN ANTI-DANDRUFF HAIR SHAMPOO 200 ML",
+    "activeingredient": "PIROCTONE OLAMINE+DIMETHICONE COPOLYOL+PANTHENOL+COCAMIDOPROPYL BETAINE+CITRIC ACID"
+  },
+  {
+    "id": 409,
+    "tradename": "ALASKA 20 CAPS.",
+    "activeingredient": "PURE FISH OIL+EPA+DHA+E1"
+  },
+  {
+    "id": 410,
+    "tradename": "ALBA CREAM 50 GM",
+    "activeingredient": "PANTHENOL+CALENDULA EXTRACT+CHLORHEXIDINE+PARAFFIN OIL"
+  },
+  {
+    "id": 411,
+    "tradename": "ALBA IRON & ZINC 20 CHEW. TABS.",
+    "activeingredient": "IRON+ZINC"
+  },
+  {
+    "id": 412,
+    "tradename": "ALBAPURE 20% 50ML I.V.INFUSION (N/A)",
+    "activeingredient": "HUMAN ALBUMIN"
+  },
+  {
+    "id": 413,
+    "tradename": "ALBENDAZOLE 200MG/5ML SUSP. 30ML",
+    "activeingredient": "ALBENDAZOLE"
+  },
+  {
+    "id": 414,
+    "tradename": "ALBENDAZOLE 400 MG 6 TABS",
+    "activeingredient": "ALBENDAZOLE"
+  },
+  {
+    "id": 415,
+    "tradename": "ALBIDERM CREAM 50 GM",
+    "activeingredient": "ARBUTIN+OLIGOPEPTIDE-34+HYDROLYZED SOY PROTEIN+VITAMIN E ACETATE+TINOSORB S"
+  },
+  {
+    "id": 416,
+    "tradename": "ALBIRE CREAM 40 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 417,
+    "tradename": "ALBOTHYL 1.8% VAG. JEL 40 GM",
+    "activeingredient": "POLICRESULEN"
+  },
+  {
+    "id": 418,
+    "tradename": "ALBOTHYL 90MG 8 VAG. SUPP.",
+    "activeingredient": "POLICRESULEN"
+  },
+  {
+    "id": 419,
+    "tradename": "ALBUMIN HUMAN 20% (100ML) I.V INFUSION (N/A)",
+    "activeingredient": "HUMAN ALBUMIN"
+  },
+  {
+    "id": 420,
+    "tradename": "ALBUMIN HUMAN 20% (50ML)  I.V INF. (N/A)",
+    "activeingredient": "HUMAN ALBUMIN"
+  },
+  {
+    "id": 421,
+    "tradename": "ALBUMINA UMANA ISI 20 % VIAL (N/A)",
+    "activeingredient": "HUMAN ALBUMIN"
+  },
+  {
+    "id": 422,
+    "tradename": "ALBUNORM 20% I.V.INFUSION (HOSPITALS ONLY)",
+    "activeingredient": "HUMAN ALBUMIN"
+  },
+  {
+    "id": 423,
+    "tradename": "ALBUSTIX 16 MG 30 TABS.",
+    "activeingredient": "CANDESARTAN CILEXETIL"
+  },
+  {
+    "id": 424,
+    "tradename": "ALBUSTIX 32 MG 30 TABS.",
+    "activeingredient": "CANDESARTAN CILEXETIL"
+  },
+  {
+    "id": 425,
+    "tradename": "ALBUSTIX 4 MG 30 TABS.",
+    "activeingredient": "CANDESARTAN CILEXETIL"
+  },
+  {
+    "id": 426,
+    "tradename": "ALBUSTIX 8 MG 30 TABS.",
+    "activeingredient": "CANDESARTAN CILEXETIL"
+  },
+  {
+    "id": 427,
+    "tradename": "ALBUSTIX D 16/12.5MG 30 TABS.",
+    "activeingredient": "CANDESARTAN CILEXETIL+HYDROCHLOROTHIAZIDE"
+  },
+  {
+    "id": 428,
+    "tradename": "ALBUSTIX D 32/12.5MG 30 TABS.",
+    "activeingredient": "CANDESARTAN CILEXETIL+HYDROCHLOROTHIAZIDE"
+  },
+  {
+    "id": 429,
+    "tradename": "ALBUSTIX D 32/25MG 30 TABS.",
+    "activeingredient": "CANDESARTAN CILEXETIL+HYDROCHLOROTHIAZIDE"
+  },
+  {
+    "id": 430,
+    "tradename": "ALBUSTIX D 8/12.5MG 30 TABS.",
+    "activeingredient": "CANDESARTAN CILEXETIL+HYDROCHLOROTHIAZIDE"
+  },
+  {
+    "id": 431,
+    "tradename": "ALBUTEIN 20% I.V. INFUSION (HOSPITALS ONLY)",
+    "activeingredient": "HUMAN ALBUMIN"
+  },
+  {
+    "id": 432,
+    "tradename": "ALCAFTAPRO 0.25% EYE DROPS 3 ML",
+    "activeingredient": "ALCAFTADINE"
+  },
+  {
+    "id": 433,
+    "tradename": "ALCAGENT  MOUTH WASH 100ML",
+    "activeingredient": null
+  },
+  {
+    "id": 434,
+    "tradename": "ALCINA EYE CREAM 15 ML (N/A)",
+    "activeingredient": null
+  },
+  {
+    "id": 435,
+    "tradename": "ALCOFAN 100 MG 5 SUPP.",
+    "activeingredient": "KETOPROFEN"
+  },
+  {
+    "id": 436,
+    "tradename": "ALCOFAN 2.5% GEL 30 GM",
+    "activeingredient": "KETOPROFEN"
+  },
+  {
+    "id": 437,
+    "tradename": "ALCOFAN 25 MG 20 TABS.",
+    "activeingredient": "KETOPROFEN"
+  },
+  {
+    "id": 438,
+    "tradename": "ALCOFAN 50 MG 12 CAPS.",
+    "activeingredient": "KETOPROFEN"
+  },
+  {
+    "id": 439,
+    "tradename": "ALDACTAZIDE 20 TAB",
+    "activeingredient": "HYDROCHLOROTHIAZIDE+SPIRONOLACTONE"
+  },
+  {
+    "id": 440,
+    "tradename": "ALDACTONE 100MG 20 TAB",
+    "activeingredient": "SPIRONOLACTONE"
+  },
+  {
+    "id": 441,
+    "tradename": "ALDACTONE 25MG 20 TAB",
+    "activeingredient": "SPIRONOLACTONE"
+  },
+  {
+    "id": 442,
+    "tradename": "ALDARA 5% CREAM 12 SACHETS",
+    "activeingredient": "IMIQUIMOD"
+  },
+  {
+    "id": 443,
+    "tradename": "ALDOMET 250 MG 30 TAB",
+    "activeingredient": "METHYLDOPA"
+  },
+  {
+    "id": 444,
+    "tradename": "ALDOMET 500 MG 20 TAB",
+    "activeingredient": "METHYLDOPA"
+  },
+  {
+    "id": 445,
+    "tradename": "ALEAVIA DROPS 20 ML",
+    "activeingredient": "OLIVE OIL+ALMOND OIL+PARAFFIN+TEA TREE+GARLIC+ COCONUT"
+  },
+  {
+    "id": 446,
+    "tradename": "ALECENSA 150 MG 224 CAPS.",
+    "activeingredient": "ALECTINIB"
+  },
+  {
+    "id": 447,
+    "tradename": "ALEEN SERUM 75 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 448,
+    "tradename": "ALEJON COLLAGEN SERUM 50 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 449,
+    "tradename": "ALEJON EYE CONCEALER 30 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 450,
+    "tradename": "ALEJON EYE CONTOUR SERUM 30 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 451,
+    "tradename": "ALEJON HAIR MASK 200 ML",
+    "activeingredient": "CAFFEIN+OIL(OLIV+WHEATGERM+JOJOBA)+BIOTIN+SAW PALMETTO+GINKGO BILOBA+PROTEIN+ALOE+PANTHENOL+ROSEMARY"
+  },
+  {
+    "id": 452,
+    "tradename": "ALEJON HAIR SERUM 50 ML",
+    "activeingredient": "KERATIN+OIL(GINSENG+GARLIC+ARGAN+CASTOR+EMU)+VIT(B6+B3+E)+ALOE VERA+PANTHENOL+PROTEIN+CAFFEIN+BIOTIN"
+  },
+  {
+    "id": 453,
+    "tradename": "ALEJON HAIR SHAMPOO 200 ML",
+    "activeingredient": "KERATIN+COLLAGEN+CAFFEINE+PANTHENOL+PROTEIN+OILS(ARGAN+BLACK SEED+EMU)+BIOTIN+GINKGO+SAW PALMETTO"
+  },
+  {
+    "id": 454,
+    "tradename": "ALEJON SUN SCREEN 50+ SPF CREAM 120 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 455,
+    "tradename": "ALEJON VITAMIN C SERUM 50 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 456,
+    "tradename": "ALEJON WHITENING BODY MILK 200 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 457,
+    "tradename": "ALEJON WHITENING CREAM 50 ML",
+    "activeingredient": null
+  },
+  {
+    "id": 458,
+    "tradename": "ALEKSA CREAM 50 GM",
+    "activeingredient": null
+  },
+  {
+    "id": 459,
+    "tradename": "ALEMOX 1 GM 12 F.C.TABS.",
+    "activeingredient": "AMOXICILLIN"
+  },
+  {
+    "id": 460,
+    "tradename": "ALEMOX 750 MG 12 F.C.TABS.",
+    "activeingredient": "AMOXICILLIN"
+  },
+  {
+    "id": 461,
+    "tradename": "ALENDENE 70MG 2 TAB.",
+    "activeingredient": "ALENDRONATE"
+  },
+  {
+    "id": 462,
+    "tradename": "ALENDEX 10MG 10 TAB.",
+    "activeingredient": "ALENDRONATE"
+  },
+  {
+    "id": 463,
+    "tradename": "ALENDEX 40MG 14 TAB.",
+    "activeingredient": "ALENDRONATE"
+  },
+  {
+    "id": 464,
+    "tradename": "ALENDEX 70MG 2 TAB.",
+    "activeingredient": "ALENDRONATE"
+  },
+  {
+    "id": 465,
+    "tradename": "ALENDOMAX 10 MG 14 TABS.",
+    "activeingredient": "ALENDRONATE"
+  },
+  {
+    "id": 466,
+    "tradename": "ALENDOMAX 40 MG 7 TABS.",
+    "activeingredient": "ALENDRONATE"
+  },
+  {
+    "id": 467,
+    "tradename": "ALENDOMAX 70 MG 2 TABS.",
+    "activeingredient": "ALENDRONATE"
+  },
+  {
+    "id": 468,
+    "tradename": "ALENDOMAX PLUS 70MG/2800 I.U. 2 TABS.",
+    "activeingredient": "ALENDRONATE+VITAMIN D3"
+  },
+  {
+    "id": 469,
+    "tradename": "ALERGAWAY 5 MG 20 ORAL DISINTEG. TABS.",
+    "activeingredient": "DESLORATADINE"
+  },
+  {
+    "id": 470,
+    "tradename": "ALERGAWAY 50MG/100ML SYRUP",
+    "activeingredient": "DESLORATADINE"
+  },
+  {
+    "id": 471,
+    "tradename": "ALERGOLIBER 10 MG 20 F.C. TABS.",
+    "activeingredient": "RUPATADINE"
+  },
+  {
+    "id": 472,
+    "tradename": "ALERGOLIBER 1MG/ML SYRUP 120 ML",
+    "activeingredient": "RUPATADINE"
+  },
+  {
+    "id": 473,
+    "tradename": "ALERID 10 MG 20 CHEWABLE TAB.",
+    "activeingredient": "CETIRIZINE"
+  },
+  {
+    "id": 474,
+    "tradename": "ALERID 10 MG 20 F.C.TABS.",
+    "activeingredient": "CETIRIZINE"
+  },
+  {
+    "id": 475,
+    "tradename": "ALERID 10MG/ML ORAL DPS. 10 ML",
+    "activeingredient": "CETIRIZINE"
+  },
+  {
+    "id": 476,
+    "tradename": "ALERID 5MG/5ML SYRUP 120ML",
+    "activeingredient": "CETIRIZINE"
+  },
+  {
+    "id": 477,
+    "tradename": "ALERID 5MG/5ML SYRUP 60ML",
+    "activeingredient": "CETIRIZINE"
+  },
+  {
+    "id": 478,
+    "tradename": "ALERTAM 120MG 10 F.C.TAB.",
+    "activeingredient": "FEXOFENADINE"
+  },
+  {
+    "id": 479,
+    "tradename": "ALERTAM 180MG 10 F.C.TAB.",
+    "activeingredient": "FEXOFENADINE"
+  },
+  {
+    "id": 480,
+    "tradename": "ALERTAM 30MG/5ML ORAL SUSP. 100ML",
+    "activeingredient": "FEXOFENADINE"
+  },
+  {
+    "id": 481,
+    "tradename": "ALERTAM 60MG 20 F.C.TAB.",
+    "activeingredient": "FEXOFENADINE"
+  },
+  {
+    "id": 482,
+    "tradename": "ALERTIN 20 TABS.",
+    "activeingredient": "CAFFEINE+ETHAMIVAN"
+  },
+  {
+    "id": 483,
+    "tradename": "ALETA 10 SACHET",
+    "activeingredient": "LACTOFERRIN+IRON FOLIC ACID+VITAMIN B COMPLEX+VITAMIN C"
+  },
+  {
+    "id": 484,
+    "tradename": "ALEX-PANTHEN CREAM 20 GM",
+    "activeingredient": "DEXAMETHASONE+PANTHENOL"
+  },
+  {
+    "id": 485,
+    "tradename": "ALEXA CREAM 75 GM",
+    "activeingredient": "JOJOBA OIL+WHEAT GERM OIL+ALMOND OIL+OLIVE OIL+UREA+PANTHENOL+PROPYLENE GLYCOL+CALENDULA EXTRACT"
+  },
+  {
+    "id": 486,
+    "tradename": "ALEXADRICAINE 1:100000 - 50 CARTRIDGES 1.7 ML",
+    "activeingredient": "ADRENALINE+ARTICAINE"
+  },
+  {
+    "id": 487,
+    "tradename": "ALEXADRICAINE 1:200000 - 50 CARTRIDGES 1.7 ML",
+    "activeingredient": "ADRENALINE+ARTICAINE"
+  },
+  {
+    "id": 488,
+    "tradename": "ALEXAN 1000MG/20ML I.V./S.C./INTRATHECAL VIAL",
+    "activeingredient": "CYTARABINE"
+  },
+  {
+    "id": 489,
+    "tradename": "ALEXAN 100MG/5ML I.V./S.C./INTRATHECAL VIAL",
+    "activeingredient": "CYTARABINE"
+  },
+  {
+    "id": 490,
+    "tradename": "ALEXAN 500MG/10ML I.V./S.C./INTRATHECAL VIAL",
+    "activeingredient": "CYTARABINE"
+  },
+  {
+    "id": 491,
+    "tradename": "ALEXCORDA 200 MG 30 TABLETS",
+    "activeingredient": "AMIODARONE"
+  },
+  {
+    "id": 492,
+    "tradename": "ALEXGENTA  0.1% TOPICAL CREAM 15 GM",
+    "activeingredient": "GENTAMICIN"
+  },
+  {
+    "id": 493,
+    "tradename": "ALEXLACTIVE 200 SUGAR COATED TAB.",
+    "activeingredient": "ALOIN + BELLADONA"
+  },
+  {
+    "id": 494,
+    "tradename": "ALEXODIAB 1000MG 30 TABS",
+    "activeingredient": "METFORMIN HYDROCHLORIDE"
+  },
+  {
+    "id": 495,
+    "tradename": "ALEXODIAB 500 MG 30 TABS",
+    "activeingredient": "METFORMIN HYDROCHLORIDE"
+  },
+  {
+    "id": 496,
+    "tradename": "ALEXOLYTE (ORS) SYRUP 360ML",
+    "activeingredient": "ORS"
+  },
+  {
+    "id": 497,
+    "tradename": "ALEXOPRINE 75MG 50 CHEW. TAB.",
+    "activeingredient": "ALUMINIUM ASPIRIN"
+  },
+  {
+    "id": 498,
+    "tradename": "ALEXOPRINE FORTE 300MG 200 TAB.",
+    "activeingredient": "ALUMINIUM ASPIRIN"
+  },
+  {
+    "id": 499,
+    "tradename": "ALEXOQUINE 250MG 10 TAB.",
+    "activeingredient": "CHLOROQUINE PHOSPHATE"
+  },
+  {
+    "id": 500,
+    "tradename": "ALEXTOL 100MG/5ML ORAL SUSP. 100ML",
+    "activeingredient": "CARBAMAZEPINE"
+  },
+  {
+    "id": 501,
+    "tradename": "ALFA WASH ANTISEPTIC SOLN. 100ML",
+    "activeingredient": "IRGASAN+MENTHOL+THYMOL"
+  }
+]

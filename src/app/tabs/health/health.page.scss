@@ -1,0 +1,173 @@
+ion-content {
+  --background: linear-gradient(
+    109.6deg,
+    rgb(157, 75, 199) 11.2%,
+    rgb(119, 81, 204) 83.1%
+  );
+  .header {
+    width: 100%;
+    .toolbar {
+      //light gradient background
+      background: linear-gradient(
+        109.6deg,
+        rgb(157, 75, 199) 11.2%,
+        rgb(119, 81, 204) 83.1%
+      );
+      //material shadow
+      box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+      height: 56px;
+      width: 100%;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      .title {
+        margin-top: 16px;
+        color: white;
+        font-weight: 600;
+        font-size: 25px;
+        text-align: center;
+        //change font name
+        font-family: "Roboto", sans-serif;
+      }
+    }
+  }
+  .summary{
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 16px;
+  }
+  .favorites{
+    margin-top: 20px;
+    margin-left: 16px;
+    font-weight: 700;
+    font-size: 30px;
+  }
+  .cards {
+    padding: 16px;
+    .card {
+      background: white;
+      border-radius: 10px;
+      height: 150px;
+      padding: 16px;
+      margin-bottom: 16px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      .little-padding {
+        padding-bottom: 5px;
+      }
+      .data {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 100%;
+        width: 70%;
+        .top {
+          display: flex;
+          flex-direction: row;
+          justify-content: start;
+          align-items: start;
+          .title {
+            margin-left: 5px;
+            font-weight: 600;
+          }
+        }
+        .bottom {
+          display: flex;
+          flex-direction: column;
+          .text {
+            color: grey;
+            font-weight: 600;
+          }
+          .bold {
+            font-weight: 600;
+            font-size: 25px;
+            color: black;
+          }
+        }
+      }
+      .more-data {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        height: 100%;
+        .top {
+          display: flex;
+          flex-direction: row;
+          justify-content: end;
+          .text {
+            color: grey;
+            font-weight: 600;
+          }
+        }
+        .bottom {
+          display: flex;
+          flex-direction: row;
+          justify-content: end;
+          .graph {
+            height: 80px;
+            width: 70px;
+          }
+          .flower {
+            height: 70px;
+            width: 70px;
+          }
+        }
+      }
+    }
+    .small-card{
+      background: white;
+      border-radius: 10px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      margin-bottom: 16px;
+
+      height: 50px;
+      width: 100%;
+      .left{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        .icon{
+          margin: 5px;
+
+          height: 40px;
+          width: 40px;
+          border-radius: 5px;
+          display: flex;
+          flex-direction: row;
+          justify-content: center;
+          align-items: center;
+
+          border: 1px solid #b1b1b1;
+          ion-icon{
+            // fill: var(--ion-color-danger);
+            font-size: 30px;
+          }
+          .normal-icon{
+            fill: var(--ion-color-violet);
+          }
+        }
+        .title{
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+        }
+
+      }
+      .right{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        ion-icon{
+          color: grey;
+          font-size: 25px;
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,129 @@
+<ion-content [fullscreen]="true">
+  <div class="header">
+    <div class="toolbar">
+      <ion-text color="primary" class="title"> Dawini Health </ion-text>
+    </div>
+  </div>
+  <div class="summary">
+    <ion-text color="light"> Summary </ion-text>
+  </div>
+  <div class="favorites">
+    <ion-text color="light"> Favorites </ion-text>
+  </div>
+  <div class="cards">
+    <div class="small-card" (click)="startChatWithVirtualDoctor()">
+      <div class="left">
+        <div class="icon"><ion-icon slot="start" name="chatbubble" class="normal-icon"></ion-icon></div>
+        <div class="title">Chat with Virtual Doctor</div>
+      </div>
+      <div class="right">
+        <ion-icon slot="end" name="chevron-forward"></ion-icon>
+      </div>
+    </div>
+    <div class="small-card" (click)="goToOrderMedicationsPage()">
+      <div class="left">
+        <div class="icon"><ion-icon slot="start" name="storefront" class="normal-icon"></ion-icon></div>
+        <div class="title">Order Medications</div>
+      </div>
+      <div class="right">
+        <ion-icon slot="end" name="chevron-forward"></ion-icon>
+      </div>
+    </div>
+    <div class="small-card">
+      <div class="left">
+        <div class="icon"><ion-icon slot="start" name="bandage" color="warning"></ion-icon></div>
+        <div class="title">Your Medications</div>
+      </div>
+      <div class="right">
+        <ion-icon slot="end" name="chevron-forward"></ion-icon>
+      </div>
+    </div>
+    <div class="small-card">
+      <div class="left">
+        <div class="icon"><ion-icon slot="start" name="medical" color="danger"></ion-icon></div>
+        <div class="title">Ask help from healthcare provider</div>
+      </div>
+      <div class="right">
+        <ion-icon slot="end" name="chevron-forward"></ion-icon>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="data">
+        <div class="top">
+          <ion-icon slot="start" name="bed" color="primary"></ion-icon>
+          <ion-text color="primary" class="title"> Sleep </ion-text>
+        </div>
+        <div class="bottom">
+          <ion-text class="text little-padding"> Time In Bed </ion-text>
+          <ion-text class="text">
+            <ion-text class="bold">6</ion-text>hr
+            <ion-text class="bold">42</ion-text>min</ion-text
+          >
+        </div>
+      </div>
+      <div class="more-data">
+        <div class="top">
+          <ion-text class="text"> Yesterday > </ion-text>
+        </div>
+        <div class="bottom">
+          <img class="graph" src="assets/graph.png" alt="" />
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="data">
+        <div class="top">
+          <ion-icon slot="start" name="bulb" color="primary"></ion-icon>
+          <ion-text color="primary" class="title"> Mood </ion-text>
+        </div>
+        <div class="bottom">
+          <ion-text class="bold little-padding"> A Very Pleasant Day </ion-text>
+          <ion-text class="text">
+            Excited, Passionate, Happy, Joyful, Brave, Proud, and 6
+            more</ion-text
+          >
+        </div>
+      </div>
+      <div class="more-data">
+        <div class="top">
+          <ion-text class="text"> 22 Nov > </ion-text>
+        </div>
+        <div class="bottom">
+          <img class="flower" src="assets/goldenflower.png" alt="" />
+        </div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="data">
+        <div class="top">
+          <ion-icon slot="start" name="flame" color="warning"></ion-icon>
+          <ion-text color="warning" class="title"> Steps </ion-text>
+        </div>
+        <div class="bottom">
+          <ion-text class="text">
+            <ion-text class="bold">3,043 </ion-text>steps</ion-text
+          >
+        </div>
+      </div>
+      <div class="more-data">
+        <div class="top">
+          <ion-text class="text"> 5:32PM > </ion-text>
+        </div>
+        <div class="bottom">
+          <img class="flower" src="assets/steps.png" alt="" />
+        </div>
+      </div>
+    </div>
+
+    <div class="small-card">
+      <div class="left">
+        <div class="icon"><ion-icon slot="start" name="heart" color="danger"></ion-icon></div>
+        <div class="title">Show All Health Data</div>
+      </div>
+      <div class="right">
+        <ion-icon slot="end" name="chevron-forward"></ion-icon>
+      </div>
+    </div>
+  </div>
+</ion-content>

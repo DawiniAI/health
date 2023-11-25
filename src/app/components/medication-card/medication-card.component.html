@@ -1,0 +1,18 @@
+<div class="card">
+  <div class="avatar">
+    <img [remote-image]="medication.picture" />
+  </div>
+  <div class="drug-details">
+    <ion-text color="primary">
+      <h3 class="tradename">{{ medication.tradename }}</h3>
+    </ion-text>
+    <ion-text color="medium">
+      <p class="activeingredient">
+        {{ medication.activeingredient || "No Known TradeName" }}
+      </p>
+    </ion-text>
+  </div>
+  <div class="price">
+    <h3 class="price-value">{{ medication.price }}</h3>
+  </div>
+</div>

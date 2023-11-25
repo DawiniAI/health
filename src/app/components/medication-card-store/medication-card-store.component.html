@@ -1,0 +1,20 @@
+<div class="medication">
+  <div class="price">{{ medication.price }} LE</div>
+
+  <div class="img-box">
+    <img [remote-image]="medication.picture" />
+  </div>
+  <div class="details">
+    <h2>
+      {{ medication.tradename }}
+    </h2>
+    <label>Active Ingredients</label>
+    <ul>
+      <li *ngFor="let activeingredient of activeingredients">
+        {{ activeingredient }}
+      </li>
+    </ul>
+
+    <a (click)="addToCart(medication)">Add to cart</a>
+  </div>
+</div>

@@ -1,15 +1,17 @@
 export const environment = {
-  firebase: {
-    projectId: process.env['projectId'],
-    appId: process.env['appId'],
-    databaseURL: process.env['databaseURL'],
-    storageBucket: process.env['storageBucket'],
-    locationId: process.env['locationId'],
-    apiKey: process.env['apiKey'],
-    authDomain: process.env['authDomain'],
-    messagingSenderId: process.env['messagingSenderId'],
-    measurementId: process.env['measurementId'],
-  },
-  clientId: process.env['clientId'],
-  production: true,
-};
+    firebase: {
+      projectId: 'undefined',
+      appId: 'undefined',
+      databaseURL: 'undefined',
+      storageBucket: 'undefined',
+      locationId: 'undefined',
+      apiKey: 'undefined',
+      authDomain: 'undefined',
+      messagingSenderId: 'undefined',
+      measurementId: 'undefined',
+    },
+    clientId: 'undefined',
+    production: true,
+    appVersion: '1.0.0',
+  };
+  

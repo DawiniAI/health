@@ -9,6 +9,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve -o",
+    "prebuild": "ts-node src/environments/set-env.ts",
     "build": "ng build --output-path www --configuration production",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
@@ -38,6 +39,7 @@
     "@ngx-translate/core": "^15.0.0",
     "@ngx-translate/http-loader": "^8.0.0",
     "diff-match-patch": "^1.0.5",
+    "dotenv": "^16.3.1",
     "express": "^4.15.2",
     "firebase": "^10.4.0",
     "firebase-tools": "^12.5.2",
@@ -80,7 +82,7 @@
     "karma-coverage-istanbul-reporter": "~3.0.2",
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.0.0",
-    "ts-node": "^8.3.0",
+    "ts-node": "^8.10.2",
     "typescript": "~5.0.2"
   },
   "description": "Healthcare with AI super powers!"

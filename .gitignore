@@ -72,3 +72,5 @@ Thumbs.db
 *-debug.log
 .runtimeconfig.json
 
+.vercel
+.env*.local

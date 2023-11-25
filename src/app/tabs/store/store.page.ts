@@ -1,7 +1,7 @@
 import { Component, NgZone, inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
-import { IonicModule } from '@ionic/angular';
+import { AlertController, IonicModule } from '@ionic/angular';
 import { MedicationCardStoreComponent } from 'src/app/components/medication-card-store/medication-card-store.component';
 import { MedicationsService } from 'src/app/services/medications.service';
 import { ActivatedRoute, RouterModule } from '@angular/router';
@@ -42,6 +42,7 @@ export class StorePage {
   userImg: string = '';
   greeting: string = '';
   route = inject(ActivatedRoute);
+  alertController = inject(AlertController);
   constructor() {
     addIcons({
       searchOutline,
@@ -54,8 +55,15 @@ export class StorePage {
     this.initSearch();
   }
 
-  addToCart(medication: Medication) {
+  async addToCart(medication: Medication) {
     console.log('medication', medication);
+    const alert = await this.alertController.create({
+      header: 'رسالة',
+      message: ` تم إضافة ${medication.tradename} إلى سلة المشتريات`,
+      buttons: ['حسناً'],
+    });
+
+    await alert.present();
   }
 
   initSearch() {

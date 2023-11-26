@@ -1,6 +1,20 @@
+let production = process.env['isProduction']
+
+console.log('isProduction', production);
+console.log('env', process.env);
+
 const fs = require('fs');
 const colors = require('colors/safe');
-require('dotenv').config({ path: '../../.env.prod' }); // Adjust the path as needed
+const path = require('path');
+if (production) {
+  require('dotenv').config({
+    path: path.resolve(__dirname, '../../.env.prod'),
+  }); // Adjust the path as needed
+} else {
+  require('dotenv').config({
+    path: path.resolve(__dirname, '../../.env.local'),
+  }); // Adjust the path as needed
+}
 
 const appVersion = require('../../package.json').version; // Adjust the path as needed
 
@@ -10,22 +24,22 @@ const setEnv = () => {
   // Configure Angular `environment.prod.ts` file path
   const targetPathProd = './src/environments/environment.prod.ts';
 
-  console.log('process.env', process.env);
+  console.log('process.env', process.env['projectId']);
 
   // `environment.ts` file structure
   const envConfigFile = `export const environment = {
     firebase: {
-      projectId: '${process.env["projectId"]}',
-      appId: '${process.env["appId"]}',
-      databaseURL: '${process.env["databaseURL"]}',
-      storageBucket: '${process.env["storageBucket"]}',
-      locationId: '${process.env["locationId"]}',
-      apiKey: '${process.env["apiKey"]}',
-      authDomain: '${process.env["authDomain"]}',
-      messagingSenderId: '${process.env["messagingSenderId"]}',
-      measurementId: '${process.env["measurementId"]}',
+      projectId: '${process.env['projectId']}',
+      appId: '${process.env['appId']}',
+      databaseURL: '${process.env['databaseURL']}',
+      storageBucket: '${process.env['storageBucket']}',
+      locationId: '${process.env['locationId']}',
+      apiKey: '${process.env['apiKey']}',
+      authDomain: '${process.env['authDomain']}',
+      messagingSenderId: '${process.env['messagingSenderId']}',
+      measurementId: '${process.env['measurementId']}',
     },
-    clientId: '${process.env["clientId"]}',
+    clientId: '${process.env['clientId']}',
     production: false,
     appVersion: '${appVersion}',
   };
@@ -34,17 +48,17 @@ const setEnv = () => {
   // `environment.prod.ts` file structure
   const envConfigFileProd = `export const environment = {
     firebase: {
-      projectId: '${process.env["projectId"]}',
-      appId: '${process.env["appId"]}',
-      databaseURL: '${process.env["databaseURL"]}',
-      storageBucket: '${process.env["storageBucket"]}',
-      locationId: '${process.env["locationId"]}',
-      apiKey: '${process.env["apiKey"]}',
-      authDomain: '${process.env["authDomain"]}',
-      messagingSenderId: '${process.env["messagingSenderId"]}',
-      measurementId: '${process.env["measurementId"]}',
+      projectId: '${process.env['projectId']}',
+      appId: '${process.env['appId']}',
+      databaseURL: '${process.env['databaseURL']}',
+      storageBucket: '${process.env['storageBucket']}',
+      locationId: '${process.env['locationId']}',
+      apiKey: '${process.env['apiKey']}',
+      authDomain: '${process.env['authDomain']}',
+      messagingSenderId: '${process.env['messagingSenderId']}',
+      measurementId: '${process.env['measurementId']}',
     },
-    clientId: '${process.env["clientId"]}',
+    clientId: '${process.env['clientId']}',
     production: true,
     appVersion: '${appVersion}',
   };

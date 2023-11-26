@@ -8,8 +8,9 @@
   },
   "scripts": {
     "ng": "ng",
-    "start": "ng serve -o",
-    "prebuild": "ts-node src/environments/set-env.ts",
+    "start": "npm run config&& ng serve -o --port=1396",
+    "config": "set isProduction=false&& ts-node src/environments/set-env.ts",
+    "prebuild": "set isProduction=true && ts-node src/environments/set-env.ts",
     "build": "ng build --output-path www --configuration production",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",

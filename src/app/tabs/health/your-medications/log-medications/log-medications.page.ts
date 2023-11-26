@@ -61,7 +61,7 @@ export class LogMedicationsPage implements OnInit {
     });
   }
   async ngOnInit() {
-    this.myMedications = await this.storage.get('my-medications');
+    this.myMedications = await this.storage.get('my-medications') || [];
 
     this.initSearch();
   }

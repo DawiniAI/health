@@ -2,7 +2,9 @@ import { CommonModule } from '@angular/common';
 import {
   ChangeDetectionStrategy,
   Component,
+  EventEmitter,
   Input,
+  Output,
   SimpleChanges,
   inject,
 } from '@angular/core';
@@ -24,6 +26,8 @@ export class MedicationCardComponent {
   @Input() medication: MedicationWithPicture = {} as MedicationWithPicture;
   gotMedicationPicturesCache: { [key: string]: string } = {};
   medicationsService = inject(MedicationsService);
+  @Output() medicationClicked = new EventEmitter<MedicationWithPicture>();
+  @Input() shouldShowAdd = false;
   constructor() {}
 
   ngOnChanges(changes: SimpleChanges) {
@@ -51,5 +55,10 @@ export class MedicationCardComponent {
 
   setDefaultPicture() {
     this.medication.picture = 'assets/img/medication-placeholder.webp';
+  }
+
+
+  medicationClick(medication: MedicationWithPicture) {
+    this.medicationClicked.emit(medication);
   }
 }

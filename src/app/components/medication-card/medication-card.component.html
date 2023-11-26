@@ -12,7 +12,7 @@
       </p>
     </ion-text>
   </div>
-    <ion-fab-button>
+    <ion-fab-button (click)="medicationClick(medication)" *ngIf="shouldShowAdd">
       <ion-icon name="add"></ion-icon>
     </ion-fab-button>
 

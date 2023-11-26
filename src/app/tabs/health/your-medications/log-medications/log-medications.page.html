@@ -1,0 +1,35 @@
+
+<ion-content [fullscreen]="true">
+  <div class="searchbar">
+    <div class="input">
+      <ion-icon name="search-outline"></ion-icon>
+      <ion-input
+        type="text"
+        placeholder="Search By tradename"
+        [(ngModel)]="searchTerm"
+        [clearInput]="true"
+        (ionInput)="onSearchInput($event)"
+      ></ion-input>
+    </div>
+    <div class="advanced-search">
+      <ion-icon name="camera-outline"></ion-icon>
+    </div>
+  </div>
+
+  <div class="choice-card" *ngIf="searchResults.length">
+    <app-medication-card
+      *ngFor="let medication of searchResults"
+      [medication]="medication"
+      [shouldShowAdd]="true"
+      (medicationClicked)="onMedicationClicked(medication)"
+    ></app-medication-card>
+  </div>
+  <div class="choice-card" *ngIf="myMedications.length && !searchResults.length">
+    <app-medication-card
+      *ngFor="let medication of myMedications"
+      [medication]="medication"
+      [shouldShowAdd]="false"
+      (medicationClicked)="onMedicationClicked(medication)"
+    ></app-medication-card>
+  </div>
+</ion-content>

@@ -9,13 +9,14 @@ import { toEnglishName } from 'src/app/utlities/toEn';
 import { MedicationsService } from 'src/app/services/medications.service';
 import { Medication } from 'src/app/models/medication';
 import { MedicationCardComponent } from 'src/app/components/medication-card/medication-card.component';
+import { RouterModule } from '@angular/router';
 
 @Component({
   selector: 'app-your-medications',
   templateUrl: './your-medications.page.html',
   styleUrls: ['./your-medications.page.scss'],
   standalone: true,
-  imports: [IonicModule, CommonModule, FormsModule,MedicationCardComponent,NgFor]
+  imports: [IonicModule, CommonModule, FormsModule,MedicationCardComponent,NgFor,RouterModule]
 })
 export class YourMedicationsPage implements OnInit {
   searchTerm: string = '';
@@ -38,58 +39,12 @@ export class YourMedicationsPage implements OnInit {
     })
   }
 
-  ngOnInit() {
-    this.initSearch();
+  ngOnInit(): void {
+
   }
 
-  onSearchInput(event: Event) {
-    this.searchTerm = (event.target as HTMLInputElement).value;
-    this.searchTerm$.next(this.searchTerm);
-  }
 
-  initSearch() {
-    this.searchTerm$.subscribe(async (searchTerm) => {
-      if (searchTerm && searchTerm.length > 3) {
-        if (this.searchTerm.match(/^[\u0621-\u064A]+/)) {
-          //Arabic Search Term
-          let arabicSearchTermConvertedToEnglish = toEnglishName(
-            this.searchTerm
-          );
-          console.log(
-            'arabicSearchTermConvertedToEnglish',
-            arabicSearchTermConvertedToEnglish
-          );
-          this.searchResults = await this.medicationService.searchMedications(
-            arabicSearchTermConvertedToEnglish
-          );
-          if (this.searchResults.length === 0) {
-            this.aiResults = await this.medicationService.getClosestMedications(
-              arabicSearchTermConvertedToEnglish,
-              0.35,
-              15
-            );
-            if (this.aiResults.length > 0) {
-              this.suggestedTerm = this.aiResults[0].tradename;
-            }
-          }
-        } else {
-          //Normal English Search Term
-          this.searchResults = await this.medicationService.searchMedications(
-            searchTerm
-          );
-          if (this.searchResults.length === 0) {
-            this.aiResults = await this.medicationService.getClosestMedications(
-              searchTerm
-            );
-            if (this.aiResults.length > 0) {
-              this.suggestedTerm = this.aiResults[0].tradename;
-            }
-          }
-        }
-      } else {
-        this.searchResults = [];
-      }
-    });
-  }
+
+
 
 }

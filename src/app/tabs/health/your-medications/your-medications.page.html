@@ -1,63 +1,48 @@
-
 <ion-content [fullscreen]="true">
   <div class="instuctions ion-padding">
-    <div class="small-card ">
+    <div class="small-card" [routerLink]="['/tabs/health/medications/log']">
       <div class="left">
-        <div class="icon"><ion-icon slot="start" name="bandage" color="warning"></ion-icon></div>
+        <div class="icon">
+          <ion-icon slot="start" name="bandage" color="warning"></ion-icon>
+        </div>
         <div class="title">Log your medications</div>
       </div>
       <div class="right">
         <ion-icon slot="end" name="chevron-forward"></ion-icon>
       </div>
     </div>
-    <div class="small-card ">
+    <div class="small-card" [routerLink]="['/tabs/health/medications/reminder']">
       <div class="left">
-        <div class="icon"><ion-icon slot="start" name="alarm" color="primary"></ion-icon></div>
+        <div class="icon">
+          <ion-icon slot="start" name="alarm" color="primary"></ion-icon>
+        </div>
         <div class="title">Set Medication Reminder</div>
       </div>
       <div class="right">
         <ion-icon slot="end" name="chevron-forward"></ion-icon>
       </div>
     </div>
-    <div class="small-card ">
+    <div class="small-card" [routerLink]="['/tabs/health/medications/interactions']">
       <div class="left">
-        <div class="icon"><ion-icon slot="start" name="color-filter" color="danger"></ion-icon></div>
+        <div class="icon">
+          <ion-icon slot="start" name="color-filter" color="danger"></ion-icon>
+        </div>
         <div class="title">Check for Drug-Drug Interactions</div>
       </div>
       <div class="right">
         <ion-icon slot="end" name="chevron-forward"></ion-icon>
       </div>
     </div>
-    <div class="small-card ">
+    <div class="small-card" [routerLink]="['/tabs/health/medications/refill']">
       <div class="left">
-        <div class="icon"><ion-icon slot="start" name="flash" color="primary"></ion-icon></div>
+        <div class="icon">
+          <ion-icon slot="start" name="flash" color="primary"></ion-icon>
+        </div>
         <div class="title">Add Medications Refill</div>
       </div>
       <div class="right">
         <ion-icon slot="end" name="chevron-forward"></ion-icon>
       </div>
     </div>
-  </div>
-
-
-
-  <div class="searchbar">
-    <div class="input">
-      <ion-icon name="search-outline"></ion-icon>
-      <ion-input
-        type="text"
-        placeholder="Search By tradename"
-        [(ngModel)]="searchTerm"
-        [clearInput]="true"
-        (ionInput)="onSearchInput($event)"
-      ></ion-input>
-    </div>
-    <div class="advanced-search">
-      <ion-icon name="camera-outline"></ion-icon>
-    </div>
-  </div>
-
-  <div class="choice-card">
-    <app-medication-card *ngFor="let medication of searchResults" [medication]="medication"></app-medication-card>
   </div>
 </ion-content>

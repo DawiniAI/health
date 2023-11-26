@@ -23,6 +23,30 @@ export class MedicationsService {
     this.dmp = new diff_match_patch();
   }
 
+  checkForDrugDrugInteractions(medications: Medication[]) {
+    if (medications.length < 2) {
+      return new Observable((observer) => {
+        observer.next(false);
+      });
+    }
+    const activeIngredients = medications.map(
+      (medication) => medication.activeingredient
+    );
+    console.log('active ingredients', activeIngredients);
+    const activeIngredientsList = [];
+    for (let activeIngredient of activeIngredients) {
+      const activeIngredientList = activeIngredient.split('+');
+      activeIngredientsList.push(...activeIngredientList);
+    }
+    console.log('active ingredients list', activeIngredientsList);
+    return this.http.post(
+      'https://ti4mrupsaj6t422s4tw7nhfaby0gkdoy.lambda-url.us-west-1.on.aws/drug-interactions',
+      {
+        drugs: activeIngredientsList,
+      }
+    );
+  }
+
   getMedicationDetailsById(id: string) {
     return this.medications.find((medication) => medication.id === id);
   }
@@ -145,7 +169,10 @@ export class MedicationsService {
     // Calculate the difference score for each medication.
     const getDiffScore = (medicationName: string) => {
       const diffs = matcher.diff_main(medicationName, term);
-      return diffs.reduce((acc:any, [op]:any) => (op !== 0 ? acc + 1 : acc), 0);
+      return diffs.reduce(
+        (acc: any, [op]: any) => (op !== 0 ? acc + 1 : acc),
+        0
+      );
     };
 
     // Factor in the starting character in the score.

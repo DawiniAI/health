@@ -2,7 +2,7 @@ import { MedicationWithPicture } from './../../../../components/medication-card/
 import { Component, OnInit, inject } from '@angular/core';
 import { CommonModule, NgFor } from '@angular/common';
 import { FormsModule } from '@angular/forms';
-import { IonicModule } from '@ionic/angular';
+import { AlertController, IonicModule, ModalController } from '@ionic/angular';
 import { MedicationCardComponent } from 'src/app/components/medication-card/medication-card.component';
 import { RouterModule } from '@angular/router';
 import { Subject } from 'rxjs/internal/Subject';
@@ -47,6 +47,8 @@ export class LogMedicationsPage implements OnInit {
   storage = inject(StorageService);
   showAdd = false;
   myMedications: MedicationWithPicture[] = [];
+  alertController = inject(AlertController);
+  modalController = inject(ModalController);
   constructor() {
     addIcons({
       add,
@@ -61,7 +63,7 @@ export class LogMedicationsPage implements OnInit {
     });
   }
   async ngOnInit() {
-    this.myMedications = await this.storage.get('my-medications') || [];
+    this.myMedications = (await this.storage.get('my-medications')) || [];
 
     this.initSearch();
   }
@@ -123,10 +125,12 @@ export class LogMedicationsPage implements OnInit {
       myMedications = [];
     }
     //don't add if already exists
-    if (myMedications.find((m:MedicationWithPicture) => m.id === medication.id)) {
+    if (
+      myMedications.find((m: MedicationWithPicture) => m.id === medication.id)
+    ) {
       this.searchResults = [];
-    this.myMedications = await this.storage.get('my-medications');
-    this.showAdd = false;
+      this.myMedications = await this.storage.get('my-medications');
+      this.showAdd = false;
       return;
     }
     myMedications.push(medication);
@@ -135,5 +139,23 @@ export class LogMedicationsPage implements OnInit {
     this.searchResults = [];
     this.myMedications = await this.storage.get('my-medications');
     this.showAdd = false;
+    //check for drug drug interactions
+
+    this.medicationService
+      .checkForDrugDrugInteractions(myMedications)
+      .subscribe((res: any) => {
+        if (res.drug_interactions) {
+          //drug_interactions
+          this.alertController
+            .create({
+              header: 'Drug Drug Interactions',
+              message: res.explanation,
+              buttons: ['OK'],
+            })
+            .then((alert) => {
+              alert.present();
+            });
+        }
+      });
   }
 }
